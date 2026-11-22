@@ -1,0 +1,6 @@
+No,Tanggal_TO,Subtes,Topik_Materi,Ringkasan_Soal,Penyebab_Kesalahan,Solusi_Kunci,Status_Review,Sudah_Dibuat_Anki
+1,2026-11-14,PK,Pertidaksamaan Rasional,Mencari himpunan penyelesaian (x-2)/(x+3) <= 0,Lupa membalik tanda saat dikali negatif,Uji titik pada garis bilangan dan bulatan penuh/kosong,Sudah Paham,Ya
+2,2026-11-21,PU,Silogisme Negasi,Menarik kesimpulan dari premis 'Semua programmer teliti',Terkecoh negasi kuantor 'semua' vs 'beberapa',Gunakan ingkaran universal: Ada/Beberapa yang bukan B,Perlu Repeat,Ya
+3,2026-11-28,PM,Aritmatika Sosial,Soal cerita diskon ganda toko online,Salah menjumlahkan langsung 50% + 20% menjadi 70%,Gunakan rumus total bayar (1-d1)(1-d2) -> diskon real 60%,Sudah Paham,Ya
+4,2026-12-05,PK,Geometri Datar,Mencari panjang diagonal layang-layang,Salah rumus luas bangun layang-layang,Luas = 1/2 * d1 * d2,Belum Paham,Tidak
+5,2026-12-12,PM,Statistika Terapan,Rata-rata nilai gabungan dua kelas SMK,Salah memasukkan bobot jumlah siswa ke pembagi,Gunakan rumus tuas / tebakan selisih terbalik bobot,Sudah Paham,Ya

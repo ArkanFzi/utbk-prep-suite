@@ -1,0 +1,2799 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Antigravity AI//UTBK 2027 Scheduler//ID
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:UTBK 2027 - Target Informatika
+X-WR-TIMEZONE:Asia/Jakarta
+X-WR-CALDESC:Jadwal Belajar Intensif UTBK-SNBT 2027 Siswa SMK RPL (Target: ITS, UB, POLINEMA)
+BEGIN:VEVENT
+UID:utbk-20261101-1500@antigravity
+DTSTAMP:20261109T042102Z
+DTSTART:20261101T080000Z
+DTEND:20261101T093000Z
+SUMMARY:UTBK 2027: Review Error Log & Rest
+DESCRIPTION:Sesi: Error Log Evaluasi Aljabar Dasar & Logika\nIntensitas: Low/Evaluasi\nTarget: Input seluruh soal salah ke Error Log & konversi ke kartu flashcard Anki.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Pengingat Sesi Belajar UTBK: Review Error Log & Rest
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:utbk-20261102-1930@antigravity
+DTSTAMP:20261109T042102Z
+DTSTART:20261102T123000Z
+DTEND:20261102T140000Z
+SUMMARY:UTBK 2027: PK (Pengetahuan Kuantitatif)
+DESCRIPTION:Topik Minggu Ini: Eksponen, Bentuk Akar, dan Pertidaksamaan Eksponensial\nIntensitas: High Focus\nTarget: Bedah konsep & manipulasi rumus.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Pengingat Sesi Belajar UTBK: PK (Pengetahuan Kuantitatif)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:utbk-20261103-1930@antigravity
+DTSTAMP:20261109T042102Z
+DTSTART:20261103T123000Z
+DTEND:20261103T140000Z
+SUMMARY:UTBK 2027: PU (Penalaran Umum)
+DESCRIPTION:Topik Minggu Ini: Logika Proposisi (Negasi, Konjungsi, Disjungsi, Implikasi, Biimplikasi)\nIntensitas: Medium Focus\nTarget: Drill logika deduktif/induktif & kecepatan.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Pengingat Sesi Belajar UTBK: PU (Penalaran Umum)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:utbk-20261104-1930@antigravity
+DTSTAMP:20261109T042102Z
+DTSTART:20261104T123000Z
+DTEND:20261104T140000Z
+SUMMARY:UTBK 2027: PM (Penalaran Matematika)
+DESCRIPTION:Topik Minggu Ini: Aritmatika Sosial (Persentase, Rasio, & Perbandingan Senilai/Berbalik Nilai)\nIntensitas: High Focus\nTarget: Abstraksi soal cerita & pemodelan persamaan.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Pengingat Sesi Belajar UTBK: PM (Penalaran Matematika)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:utbk-20261105-1930@antigravity
+DTSTAMP:20261109T042102Z
+DTSTART:20261105T123000Z
+DTEND:20261105T140000Z
+SUMMARY:UTBK 2027: PK & PM (Cross-Drill)
+DESCRIPTION:Topik Minggu Ini: Integrasi Eksponen & Aritmatika Sosial\nIntensitas: High Focus\nTarget: Integrasi soal cerita & kecepatan eksekusi.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Pengingat Sesi Belajar UTBK: PK & PM (Cross-Drill)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:utbk-20261106-2000@antigravity
+DTSTAMP:20261109T042102Z
+DTSTART:20261106T130000Z
+DTEND:20261106T143000Z
+SUMMARY:UTBK 2027: Literasi (LBIng & LBInd) / PBM
+DESCRIPTION:Topik Minggu Ini: LBIng Skimming & Main Idea\nIntensitas: Light-Medium\nTarget: Speed reading, main idea, & ketelitian kalimat.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Pengingat Sesi Belajar UTBK: Literasi (LBIng & LBInd) / PBM
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:utbk-20261107-0900@antigravity
+DTSTAMP:20261109T042102Z
+DTSTART:20261107T020000Z
+DTEND:20261107T043000Z
+SUMMARY:UTBK 2027: Simulasi / Try-Out
+DESCRIPTION:Sesi: Simulasi Latihan Soal Mandiri Minggu 1\nIntensitas: Maximum Focus\nTarget: Pengerjaan soal dengan timer resmi ketat. Jangan buka pembahasan saat tes berlangsung!
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Pengingat Sesi Belajar UTBK: Simulasi / Try-Out
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:utbk-20261108-1500@antigravity
+DTSTAMP:20261109T042102Z
+DTSTART:20261108T080000Z
+DTEND:20261108T093000Z
+SUMMARY:UTBK 2027: Review Error Log & Rest
+DESCRIPTION:Sesi: Error Log Evaluasi SPLDV & Ekuivalensi Logika\nIntensitas: Low/Evaluasi\nTarget: Input seluruh soal salah ke Error Log & konversi ke kartu flashcard Anki.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Pengingat Sesi Belajar UTBK: Review Error Log & Rest
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:utbk-20261109-1930@antigravity
+DTSTAMP:20261109T042102Z
+DTSTART:20261109T123000Z
+DTEND:20261109T140000Z
+SUMMARY:UTBK 2027: PK (Pengetahuan Kuantitatif)
+DESCRIPTION:Topik Minggu Ini: Persamaan & Pertidaksamaan Linear dan Kuadrat, Fungsi Kuadrat\nIntensitas: High Focus\nTarget: Bedah konsep & manipulasi rumus.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Pengingat Sesi Belajar UTBK: PK (Pengetahuan Kuantitatif)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:utbk-20261110-1930@antigravity
+DTSTAMP:20261109T042102Z
+DTSTART:20261110T123000Z
+DTEND:20261110T140000Z
+SUMMARY:UTBK 2027: PU (Penalaran Umum)
+DESCRIPTION:Topik Minggu Ini: Ekuivalensi Implikasi (P -> Q = ~Q -> ~P = ~P or Q)\nIntensitas: Medium Focus\nTarget: Drill logika deduktif/induktif & kecepatan.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Pengingat Sesi Belajar UTBK: PU (Penalaran Umum)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:utbk-20261111-1930@antigravity
+DTSTAMP:20261109T042102Z
+DTSTART:20261111T123000Z
+DTEND:20261111T140000Z
+SUMMARY:UTBK 2027: PM (Penalaran Matematika)
+DESCRIPTION:Topik Minggu Ini: Pemodelan Sistem Persamaan Linear (SPLDV & SPLTV)\nIntensitas: High Focus\nTarget: Abstraksi soal cerita & pemodelan persamaan.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Pengingat Sesi Belajar UTBK: PM (Penalaran Matematika)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:utbk-20261112-1930@antigravity
+DTSTAMP:20261109T042102Z
+DTSTART:20261112T123000Z
+DTEND:20261112T140000Z
+SUMMARY:UTBK 2027: PK & PM (Cross-Drill)
+DESCRIPTION:Topik Minggu Ini: Cross Drill: Persamaan Kuadrat & Model Cerita SPLDV\nIntensitas: High Focus\nTarget: Integrasi soal cerita & kecepatan eksekusi.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Pengingat Sesi Belajar UTBK: PK & PM (Cross-Drill)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:utbk-20261113-2000@antigravity
+DTSTAMP:20261109T042102Z
+DTSTART:20261113T130000Z
+DTEND:20261113T143000Z
+SUMMARY:UTBK 2027: Literasi (LBIng & LBInd) / PBM
+DESCRIPTION:Topik Minggu Ini: LBInd Analisis Paragraf & Kepaduan Kalimat\nIntensitas: Light-Medium\nTarget: Speed reading, main idea, & ketelitian kalimat.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Pengingat Sesi Belajar UTBK: Literasi (LBIng & LBInd) / PBM
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:utbk-20261114-0900@antigravity
+DTSTAMP:20261109T042102Z
+DTSTART:20261114T020000Z
+DTEND:20261114T043000Z
+SUMMARY:UTBK 2027: Simulasi / Try-Out
+DESCRIPTION:Sesi: Simulasi Latihan Soal Mandiri Minggu 2\nIntensitas: Maximum Focus\nTarget: Pengerjaan soal dengan timer resmi ketat. Jangan buka pembahasan saat tes berlangsung!
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Pengingat Sesi Belajar UTBK: Simulasi / Try-Out
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:utbk-20261115-1500@antigravity
+DTSTAMP:20261109T042102Z
+DTSTART:20261115T080000Z
+DTEND:20261115T093000Z
+SUMMARY:UTBK 2027: Review Error Log & Rest
+DESCRIPTION:Sesi: Error Log Evaluasi Fungsi & Silogisme\nIntensitas: Low/Evaluasi\nTarget: Input seluruh soal salah ke Error Log & konversi ke kartu flashcard Anki.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Pengingat Sesi Belajar UTBK: Review Error Log & Rest
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:utbk-20261116-1930@antigravity
+DTSTAMP:20261109T042102Z
+DTSTART:20261116T123000Z
+DTEND:20261116T140000Z
+SUMMARY:UTBK 2027: PK (Pengetahuan Kuantitatif)
+DESCRIPTION:Topik Minggu Ini: Fungsi, Komposisi Fungsi (f o g)(x), dan Fungsi Invers f^-1(x)\nIntensitas: High Focus\nTarget: Bedah konsep & manipulasi rumus.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Pengingat Sesi Belajar UTBK: PK (Pengetahuan Kuantitatif)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:utbk-20261117-1930@antigravity
+DTSTAMP:20261109T042102Z
+DTSTART:20261117T123000Z
+DTEND:20261117T140000Z
+SUMMARY:UTBK 2027: PU (Penalaran Umum)
+DESCRIPTION:Topik Minggu Ini: Penarikan Kesimpulan Valid (Modus Ponens, Modus Tollens, Silogisme)\nIntensitas: Medium Focus\nTarget: Drill logika deduktif/induktif & kecepatan.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Pengingat Sesi Belajar UTBK: PU (Penalaran Umum)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:utbk-20261118-1930@antigravity
+DTSTAMP:20261109T042102Z
+DTSTART:20261118T123000Z
+DTEND:20261118T140000Z
+SUMMARY:UTBK 2027: PM (Penalaran Matematika)
+DESCRIPTION:Topik Minggu Ini: Laju Perubahan & Perhitungan Diskon Bertingkat / Bunga\nIntensitas: High Focus\nTarget: Abstraksi soal cerita & pemodelan persamaan.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Pengingat Sesi Belajar UTBK: PM (Penalaran Matematika)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:utbk-20261119-1930@antigravity
+DTSTAMP:20261109T042102Z
+DTSTART:20261119T123000Z
+DTEND:20261119T140000Z
+SUMMARY:UTBK 2027: PK & PM (Cross-Drill)
+DESCRIPTION:Topik Minggu Ini: Cross Drill: Komposisi Fungsi & Laju Perubahan\nIntensitas: High Focus\nTarget: Integrasi soal cerita & kecepatan eksekusi.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Pengingat Sesi Belajar UTBK: PK & PM (Cross-Drill)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:utbk-20261120-2000@antigravity
+DTSTAMP:20261109T042102Z
+DTSTART:20261120T130000Z
+DTEND:20261120T143000Z
+SUMMARY:UTBK 2027: Literasi (LBIng & LBInd) / PBM
+DESCRIPTION:Topik Minggu Ini: LBIng Inference & Vocabulary in Context\nIntensitas: Light-Medium\nTarget: Speed reading, main idea, & ketelitian kalimat.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Pengingat Sesi Belajar UTBK: Literasi (LBIng & LBInd) / PBM
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:utbk-20261121-0900@antigravity
+DTSTAMP:20261109T042102Z
+DTSTART:20261121T020000Z
+DTEND:20261121T043000Z
+SUMMARY:UTBK 2027: Simulasi / Try-Out
+DESCRIPTION:Sesi: Simulasi Latihan Soal Mandiri Minggu 3\nIntensitas: Maximum Focus\nTarget: Pengerjaan soal dengan timer resmi ketat. Jangan buka pembahasan saat tes berlangsung!
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Pengingat Sesi Belajar UTBK: Simulasi / Try-Out
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:utbk-20261122-1500@antigravity
+DTSTAMP:20261109T042102Z
+DTSTART:20261122T080000Z
+DTEND:20261122T093000Z
+SUMMARY:UTBK 2027: Review Error Log & Rest
+DESCRIPTION:Sesi: Deep Review Error Log Try-Out 1\nIntensitas: Low/Evaluasi\nTarget: Input seluruh soal salah ke Error Log & konversi ke kartu flashcard Anki.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Pengingat Sesi Belajar UTBK: Review Error Log & Rest
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:utbk-20261123-1930@antigravity
+DTSTAMP:20261109T042102Z
+DTSTART:20261123T123000Z
+DTEND:20261123T140000Z
+SUMMARY:UTBK 2027: PK (Pengetahuan Kuantitatif)
+DESCRIPTION:Topik Minggu Ini: Uji Konsep Aljabar Keseluruhan + Sifat Bilangan Rasional/Irasional\nIntensitas: High Focus\nTarget: Bedah konsep & manipulasi rumus.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Pengingat Sesi Belajar UTBK: PK (Pengetahuan Kuantitatif)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:utbk-20261124-1930@antigravity
+DTSTAMP:20261109T042102Z
+DTSTART:20261124T123000Z
+DTEND:20261124T140000Z
+SUMMARY:UTBK 2027: PU (Penalaran Umum)
+DESCRIPTION:Topik Minggu Ini: Logika Analitis (Pengurutan & Posisi Duduk/Jadwal)\nIntensitas: Medium Focus\nTarget: Drill logika deduktif/induktif & kecepatan.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Pengingat Sesi Belajar UTBK: PU (Penalaran Umum)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:utbk-20261125-1930@antigravity
+DTSTAMP:20261109T042102Z
+DTSTART:20261125T123000Z
+DTEND:20261125T140000Z
+SUMMARY:UTBK 2027: PM (Penalaran Matematika)
+DESCRIPTION:Topik Minggu Ini: Review Pemodelan Matematika & Aplikasi Keuangan\nIntensitas: High Focus\nTarget: Abstraksi soal cerita & pemodelan persamaan.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Pengingat Sesi Belajar UTBK: PM (Penalaran Matematika)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:utbk-20261126-1930@antigravity
+DTSTAMP:20261109T042102Z
+DTSTART:20261126T123000Z
+DTEND:20261126T140000Z
+SUMMARY:UTBK 2027: PK & PM (Cross-Drill)
+DESCRIPTION:Topik Minggu Ini: Cross Drill Aljabar & Logika Analitis\nIntensitas: High Focus\nTarget: Integrasi soal cerita & kecepatan eksekusi.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Pengingat Sesi Belajar UTBK: PK & PM (Cross-Drill)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:utbk-20261127-2000@antigravity
+DTSTAMP:20261109T042102Z
+DTSTART:20261127T130000Z
+DTEND:20261127T143000Z
+SUMMARY:UTBK 2027: Literasi (LBIng & LBInd) / PBM
+DESCRIPTION:Topik Minggu Ini: Speed Reading Teks Indonesia/Inggris + Try-Out 1 Evaluasi\nIntensitas: Light-Medium\nTarget: Speed reading, main idea, & ketelitian kalimat.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Pengingat Sesi Belajar UTBK: Literasi (LBIng & LBInd) / PBM
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:utbk-20261128-0900@antigravity
+DTSTAMP:20261109T042102Z
+DTSTART:20261128T020000Z
+DTEND:20261128T043000Z
+SUMMARY:UTBK 2027: Simulasi / Try-Out
+DESCRIPTION:Sesi: Try-Out 1 (Simulasi Evaluasi Bulanan November)\nIntensitas: Maximum Focus\nTarget: Pengerjaan soal dengan timer resmi ketat. Jangan buka pembahasan saat tes berlangsung!
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Pengingat Sesi Belajar UTBK: Simulasi / Try-Out
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:utbk-20261129-1500@antigravity
+DTSTAMP:20261109T042102Z
+DTSTART:20261129T080000Z
+DTEND:20261129T093000Z
+SUMMARY:UTBK 2027: Review Error Log & Rest
+DESCRIPTION:Sesi: Deep Review Error Log Try-Out 1\nIntensitas: Low/Evaluasi\nTarget: Input seluruh soal salah ke Error Log & konversi ke kartu flashcard Anki.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Pengingat Sesi Belajar UTBK: Review Error Log & Rest
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:utbk-20261130-1930@antigravity
+DTSTAMP:20261109T042102Z
+DTSTART:20261130T123000Z
+DTEND:20261130T140000Z
+SUMMARY:UTBK 2027: PK (Pengetahuan Kuantitatif)
+DESCRIPTION:Topik Minggu Ini: Uji Konsep Aljabar Keseluruhan + Sifat Bilangan Rasional/Irasional\nIntensitas: High Focus\nTarget: Bedah konsep & manipulasi rumus.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Pengingat Sesi Belajar UTBK: PK (Pengetahuan Kuantitatif)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:utbk-20261201-1930@antigravity
+DTSTAMP:20261109T042102Z
+DTSTART:20261201T123000Z
+DTEND:20261201T140000Z
+SUMMARY:UTBK 2027: PU (Penalaran Umum)
+DESCRIPTION:Topik Minggu Ini: Pola Deret Angka & Huruf (Larik 1, Larik 2, Bertingkat)\nIntensitas: Medium Focus\nTarget: Drill logika deduktif/induktif & kecepatan.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Pengingat Sesi Belajar UTBK: PU (Penalaran Umum)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:utbk-20261202-1930@antigravity
+DTSTAMP:20261109T042102Z
+DTSTART:20261202T123000Z
+DTEND:20261202T140000Z
+SUMMARY:UTBK 2027: PM (Penalaran Matematika)
+DESCRIPTION:Topik Minggu Ini: Statistika Terapan (Mean, Median, Modus Data Kelompok)\nIntensitas: High Focus\nTarget: Abstraksi soal cerita & pemodelan persamaan.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Pengingat Sesi Belajar UTBK: PM (Penalaran Matematika)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:utbk-20261203-1930@antigravity
+DTSTAMP:20261109T042102Z
+DTSTART:20261203T123000Z
+DTEND:20261203T140000Z
+SUMMARY:UTBK 2027: PK & PM (Cross-Drill)
+DESCRIPTION:Topik Minggu Ini: Cross Drill: Geometri Datar & Analisis Data Terapan\nIntensitas: High Focus\nTarget: Integrasi soal cerita & kecepatan eksekusi.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Pengingat Sesi Belajar UTBK: PK & PM (Cross-Drill)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:utbk-20261204-2000@antigravity
+DTSTAMP:20261109T042102Z
+DTSTART:20261204T130000Z
+DTEND:20261204T143000Z
+SUMMARY:UTBK 2027: Literasi (LBIng & LBInd) / PBM
+DESCRIPTION:Topik Minggu Ini: LBInd Pemahaman PBM & Ejaan (PUEBI)\nIntensitas: Light-Medium\nTarget: Speed reading, main idea, & ketelitian kalimat.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Pengingat Sesi Belajar UTBK: Literasi (LBIng & LBInd) / PBM
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:utbk-20261205-0900@antigravity
+DTSTAMP:20261109T042102Z
+DTSTART:20261205T020000Z
+DTEND:20261205T043000Z
+SUMMARY:UTBK 2027: Simulasi / Try-Out
+DESCRIPTION:Sesi: Simulasi Latihan Soal Mandiri Minggu 1 Des\nIntensitas: Maximum Focus\nTarget: Pengerjaan soal dengan timer resmi ketat. Jangan buka pembahasan saat tes berlangsung!
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Pengingat Sesi Belajar UTBK: Simulasi / Try-Out
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:utbk-20261206-1500@antigravity
+DTSTAMP:20261109T042102Z
+DTSTART:20261206T080000Z
+DTEND:20261206T093000Z
+SUMMARY:UTBK 2027: Review Error Log & Rest
+DESCRIPTION:Sesi: Error Log Geometri Datar & Pola Deret\nIntensitas: Low/Evaluasi\nTarget: Input seluruh soal salah ke Error Log & konversi ke kartu flashcard Anki.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Pengingat Sesi Belajar UTBK: Review Error Log & Rest
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:utbk-20261207-1930@antigravity
+DTSTAMP:20261109T042102Z
+DTSTART:20261207T123000Z
+DTEND:20261207T140000Z
+SUMMARY:UTBK 2027: PK (Pengetahuan Kuantitatif)
+DESCRIPTION:Topik Minggu Ini: Geometri Datar (Segitiga, Pythagoras, Kesebangunan, Luas & Keliling)\nIntensitas: High Focus\nTarget: Bedah konsep & manipulasi rumus.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Pengingat Sesi Belajar UTBK: PK (Pengetahuan Kuantitatif)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:utbk-20261208-1930@antigravity
+DTSTAMP:20261109T042102Z
+DTSTART:20261208T123000Z
+DTEND:20261208T140000Z
+SUMMARY:UTBK 2027: PU (Penalaran Umum)
+DESCRIPTION:Topik Minggu Ini: Pola Gambar 2D/3D (Rotasi, Matrix Pattern, Visual Reasoning)\nIntensitas: Medium Focus\nTarget: Drill logika deduktif/induktif & kecepatan.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Pengingat Sesi Belajar UTBK: PU (Penalaran Umum)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:utbk-20261209-1930@antigravity
+DTSTAMP:20261109T042102Z
+DTSTART:20261209T123000Z
+DTEND:20261209T140000Z
+SUMMARY:UTBK 2027: PM (Penalaran Matematika)
+DESCRIPTION:Topik Minggu Ini: Ukuran Penyebaran (Jangkauan, Kuartil, Simpangan) & Perubahan Data Skalar\nIntensitas: High Focus\nTarget: Abstraksi soal cerita & pemodelan persamaan.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Pengingat Sesi Belajar UTBK: PM (Penalaran Matematika)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:utbk-20261210-1930@antigravity
+DTSTAMP:20261109T042102Z
+DTSTART:20261210T123000Z
+DTEND:20261210T140000Z
+SUMMARY:UTBK 2027: PK & PM (Cross-Drill)
+DESCRIPTION:Topik Minggu Ini: Cross Drill: Geometri Ruang & Ukuran Penyebaran Data\nIntensitas: High Focus\nTarget: Integrasi soal cerita & kecepatan eksekusi.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Pengingat Sesi Belajar UTBK: PK & PM (Cross-Drill)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:utbk-20261211-2000@antigravity
+DTSTAMP:20261109T042102Z
+DTSTART:20261211T130000Z
+DTEND:20261211T143000Z
+SUMMARY:UTBK 2027: Literasi (LBIng & LBInd) / PBM
+DESCRIPTION:Topik Minggu Ini: LBIng Reading Comprehension & Tone of the Author\nIntensitas: Light-Medium\nTarget: Speed reading, main idea, & ketelitian kalimat.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Pengingat Sesi Belajar UTBK: Literasi (LBIng & LBInd) / PBM
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:utbk-20261212-0900@antigravity
+DTSTAMP:20261109T042102Z
+DTSTART:20261212T020000Z
+DTEND:20261212T043000Z
+SUMMARY:UTBK 2027: Simulasi / Try-Out
+DESCRIPTION:Sesi: Simulasi Latihan Soal Mandiri Minggu 2 Des\nIntensitas: Maximum Focus\nTarget: Pengerjaan soal dengan timer resmi ketat. Jangan buka pembahasan saat tes berlangsung!
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Pengingat Sesi Belajar UTBK: Simulasi / Try-Out
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:utbk-20261213-1500@antigravity
+DTSTAMP:20261109T042102Z
+DTSTART:20261213T080000Z
+DTEND:20261213T093000Z
+SUMMARY:UTBK 2027: Review Error Log & Rest
+DESCRIPTION:Sesi: Error Log Geometri Ruang & Visual Pattern\nIntensitas: Low/Evaluasi\nTarget: Input seluruh soal salah ke Error Log & konversi ke kartu flashcard Anki.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Pengingat Sesi Belajar UTBK: Review Error Log & Rest
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:utbk-20261214-1930@antigravity
+DTSTAMP:20261109T042102Z
+DTSTART:20261214T123000Z
+DTEND:20261214T140000Z
+SUMMARY:UTBK 2027: PK (Pengetahuan Kuantitatif)
+DESCRIPTION:Topik Minggu Ini: Geometri Ruang (Prisma, Tabung, Kerucut, Bola, Jarak & Volume)\nIntensitas: High Focus\nTarget: Bedah konsep & manipulasi rumus.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Pengingat Sesi Belajar UTBK: PK (Pengetahuan Kuantitatif)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:utbk-20261215-1930@antigravity
+DTSTAMP:20261109T042102Z
+DTSTART:20261215T123000Z
+DTEND:20261215T140000Z
+SUMMARY:UTBK 2027: PU (Penalaran Umum)
+DESCRIPTION:Topik Minggu Ini: Analisis Teks (Pasti Benar, Mungkin Benar, Pasti Salah)\nIntensitas: Medium Focus\nTarget: Drill logika deduktif/induktif & kecepatan.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Pengingat Sesi Belajar UTBK: PU (Penalaran Umum)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:utbk-20261216-1930@antigravity
+DTSTAMP:20261109T042102Z
+DTSTART:20261216T123000Z
+DTEND:20261216T140000Z
+SUMMARY:UTBK 2027: PM (Penalaran Matematika)
+DESCRIPTION:Topik Minggu Ini: Reading Charts & Graphs (Diagram Batang, Garis, Lingkaran)\nIntensitas: High Focus\nTarget: Abstraksi soal cerita & pemodelan persamaan.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Pengingat Sesi Belajar UTBK: PM (Penalaran Matematika)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:utbk-20261217-1930@antigravity
+DTSTAMP:20261109T042102Z
+DTSTART:20261217T123000Z
+DTEND:20261217T140000Z
+SUMMARY:UTBK 2027: PK & PM (Cross-Drill)
+DESCRIPTION:Topik Minggu Ini: Cross Drill: Geometri Garis & Grafik Batang/Garis\nIntensitas: High Focus\nTarget: Integrasi soal cerita & kecepatan eksekusi.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Pengingat Sesi Belajar UTBK: PK & PM (Cross-Drill)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:utbk-20261218-2000@antigravity
+DTSTAMP:20261109T042102Z
+DTSTART:20261218T130000Z
+DTEND:20261218T143000Z
+SUMMARY:UTBK 2027: Literasi (LBIng & LBInd) / PBM
+DESCRIPTION:Topik Minggu Ini: LBInd Menyunting Kalimat Efektif & Kohesi\nIntensitas: Light-Medium\nTarget: Speed reading, main idea, & ketelitian kalimat.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Pengingat Sesi Belajar UTBK: Literasi (LBIng & LBInd) / PBM
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:utbk-20261219-0900@antigravity
+DTSTAMP:20261109T042102Z
+DTSTART:20261219T020000Z
+DTEND:20261219T043000Z
+SUMMARY:UTBK 2027: Simulasi / Try-Out
+DESCRIPTION:Sesi: Simulasi Latihan Soal Mandiri Minggu 3 Des\nIntensitas: Maximum Focus\nTarget: Pengerjaan soal dengan timer resmi ketat. Jangan buka pembahasan saat tes berlangsung!
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Pengingat Sesi Belajar UTBK: Simulasi / Try-Out
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:utbk-20261220-1500@antigravity
+DTSTAMP:20261109T042102Z
+DTSTART:20261220T080000Z
+DTEND:20261220T093000Z
+SUMMARY:UTBK 2027: Review Error Log & Rest
+DESCRIPTION:Sesi: Error Log Geometri Analitik & Analisis Teks\nIntensitas: Low/Evaluasi\nTarget: Input seluruh soal salah ke Error Log & konversi ke kartu flashcard Anki.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Pengingat Sesi Belajar UTBK: Review Error Log & Rest
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:utbk-20261221-1930@antigravity
+DTSTAMP:20261109T042102Z
+DTSTART:20261221T123000Z
+DTEND:20261221T140000Z
+SUMMARY:UTBK 2027: PK (Pengetahuan Kuantitatif)
+DESCRIPTION:Topik Minggu Ini: Geometri Analitik (Persamaan Garis, Gradien, Garis Sejajar & Tegak Lurus)\nIntensitas: High Focus\nTarget: Bedah konsep & manipulasi rumus.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Pengingat Sesi Belajar UTBK: PK (Pengetahuan Kuantitatif)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:utbk-20261222-1930@antigravity
+DTSTAMP:20261109T042102Z
+DTSTART:20261222T123000Z
+DTEND:20261222T140000Z
+SUMMARY:UTBK 2027: PU (Penalaran Umum)
+DESCRIPTION:Topik Minggu Ini: Drill Campuran Penalaran Deduktif + Induktif\nIntensitas: Medium Focus\nTarget: Drill logika deduktif/induktif & kecepatan.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Pengingat Sesi Belajar UTBK: PU (Penalaran Umum)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:utbk-20261223-1930@antigravity
+DTSTAMP:20261109T042102Z
+DTSTART:20261223T123000Z
+DTEND:20261223T140000Z
+SUMMARY:UTBK 2027: PM (Penalaran Matematika)
+DESCRIPTION:Topik Minggu Ini: Analisis Trend Data Kompleks & Ekstrapolasi\nIntensitas: High Focus\nTarget: Abstraksi soal cerita & pemodelan persamaan.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Pengingat Sesi Belajar UTBK: PM (Penalaran Matematika)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:utbk-20261224-1930@antigravity
+DTSTAMP:20261109T042102Z
+DTSTART:20261224T123000Z
+DTEND:20261224T140000Z
+SUMMARY:UTBK 2027: PK & PM (Cross-Drill)
+DESCRIPTION:Topik Minggu Ini: Cross Drill: Geometri & Trend Data\nIntensitas: High Focus\nTarget: Integrasi soal cerita & kecepatan eksekusi.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Pengingat Sesi Belajar UTBK: PK & PM (Cross-Drill)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:utbk-20261225-2000@antigravity
+DTSTAMP:20261109T042102Z
+DTSTART:20261225T130000Z
+DTEND:20261225T143000Z
+SUMMARY:UTBK 2027: Literasi (LBIng & LBInd) / PBM
+DESCRIPTION:Topik Minggu Ini: PBM & Literasi Try-Out 2 Evaluasi\nIntensitas: Light-Medium\nTarget: Speed reading, main idea, & ketelitian kalimat.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Pengingat Sesi Belajar UTBK: Literasi (LBIng & LBInd) / PBM
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:utbk-20261226-0900@antigravity
+DTSTAMP:20261109T042102Z
+DTSTART:20261226T020000Z
+DTEND:20261226T043000Z
+SUMMARY:UTBK 2027: Simulasi / Try-Out
+DESCRIPTION:Sesi: Try-Out 2 (Simulasi Evaluasi Bulanan Desember)\nIntensitas: Maximum Focus\nTarget: Pengerjaan soal dengan timer resmi ketat. Jangan buka pembahasan saat tes berlangsung!
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Pengingat Sesi Belajar UTBK: Simulasi / Try-Out
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:utbk-20261227-1500@antigravity
+DTSTAMP:20261109T042102Z
+DTSTART:20261227T080000Z
+DTEND:20261227T093000Z
+SUMMARY:UTBK 2027: Review Error Log & Rest
+DESCRIPTION:Sesi: Deep Review Error Log Try-Out 2\nIntensitas: Low/Evaluasi\nTarget: Input seluruh soal salah ke Error Log & konversi ke kartu flashcard Anki.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Pengingat Sesi Belajar UTBK: Review Error Log & Rest
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:utbk-20261228-1930@antigravity
+DTSTAMP:20261109T042102Z
+DTSTART:20261228T123000Z
+DTEND:20261228T140000Z
+SUMMARY:UTBK 2027: PK (Pengetahuan Kuantitatif)
+DESCRIPTION:Topik Minggu Ini: Review Geometri Keseluruhan & Evaluasi Formatif\nIntensitas: High Focus\nTarget: Bedah konsep & manipulasi rumus.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Pengingat Sesi Belajar UTBK: PK (Pengetahuan Kuantitatif)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:utbk-20261229-1930@antigravity
+DTSTAMP:20261109T042102Z
+DTSTART:20261229T123000Z
+DTEND:20261229T140000Z
+SUMMARY:UTBK 2027: PU (Penalaran Umum)
+DESCRIPTION:Topik Minggu Ini: Drill Campuran Penalaran Deduktif + Induktif\nIntensitas: Medium Focus\nTarget: Drill logika deduktif/induktif & kecepatan.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Pengingat Sesi Belajar UTBK: PU (Penalaran Umum)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:utbk-20261230-1930@antigravity
+DTSTAMP:20261109T042102Z
+DTSTART:20261230T123000Z
+DTEND:20261230T140000Z
+SUMMARY:UTBK 2027: PM (Penalaran Matematika)
+DESCRIPTION:Topik Minggu Ini: Analisis Trend Data Kompleks & Ekstrapolasi\nIntensitas: High Focus\nTarget: Abstraksi soal cerita & pemodelan persamaan.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Pengingat Sesi Belajar UTBK: PM (Penalaran Matematika)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:utbk-20261231-1930@antigravity
+DTSTAMP:20261109T042102Z
+DTSTART:20261231T123000Z
+DTEND:20261231T140000Z
+SUMMARY:UTBK 2027: PK & PM (Cross-Drill)
+DESCRIPTION:Topik Minggu Ini: Cross Drill: Geometri & Trend Data\nIntensitas: High Focus\nTarget: Integrasi soal cerita & kecepatan eksekusi.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Pengingat Sesi Belajar UTBK: PK & PM (Cross-Drill)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:utbk-20270101-2000@antigravity
+DTSTAMP:20261109T042102Z
+DTSTART:20270101T130000Z
+DTEND:20270101T143000Z
+SUMMARY:UTBK 2027: Literasi (LBIng & LBInd) / PBM
+DESCRIPTION:Topik Minggu Ini: LBIng Skimming Fast Reading & Scientific Tones\nIntensitas: Light-Medium\nTarget: Speed reading, main idea, & ketelitian kalimat.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Pengingat Sesi Belajar UTBK: Literasi (LBIng & LBInd) / PBM
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:utbk-20270102-0900@antigravity
+DTSTAMP:20261109T042102Z
+DTSTART:20270102T020000Z
+DTEND:20270102T043000Z
+SUMMARY:UTBK 2027: Simulasi / Try-Out
+DESCRIPTION:Sesi: Simulasi Latihan Soal Mandiri Minggu 1 Jan\nIntensitas: Maximum Focus\nTarget: Pengerjaan soal dengan timer resmi ketat. Jangan buka pembahasan saat tes berlangsung!
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Pengingat Sesi Belajar UTBK: Simulasi / Try-Out
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:utbk-20270103-1500@antigravity
+DTSTAMP:20261109T042102Z
+DTSTART:20270103T080000Z
+DTEND:20270103T093000Z
+SUMMARY:UTBK 2027: Review Error Log & Rest
+DESCRIPTION:Sesi: Error Log Kaidah Pencacahan & Barisan Aritmatika\nIntensitas: Low/Evaluasi\nTarget: Input seluruh soal salah ke Error Log & konversi ke kartu flashcard Anki.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Pengingat Sesi Belajar UTBK: Review Error Log & Rest
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:utbk-20270104-1930@antigravity
+DTSTAMP:20261109T042102Z
+DTSTART:20270104T123000Z
+DTEND:20270104T140000Z
+SUMMARY:UTBK 2027: PK (Pengetahuan Kuantitatif)
+DESCRIPTION:Topik Minggu Ini: Kaidah Pencacahan, Aturan Perkalian & Penjumlahan\nIntensitas: High Focus\nTarget: Bedah konsep & manipulasi rumus.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Pengingat Sesi Belajar UTBK: PK (Pengetahuan Kuantitatif)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:utbk-20270105-1930@antigravity
+DTSTAMP:20261109T042102Z
+DTSTART:20270105T123000Z
+DTEND:20270105T140000Z
+SUMMARY:UTBK 2027: PU (Penalaran Umum)
+DESCRIPTION:Topik Minggu Ini: Pola Deret Fibonacci & Operasi Campuran Aritmatika Cepat\nIntensitas: Medium Focus\nTarget: Drill logika deduktif/induktif & kecepatan.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Pengingat Sesi Belajar UTBK: PU (Penalaran Umum)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:utbk-20270106-1930@antigravity
+DTSTAMP:20261109T042102Z
+DTSTART:20270106T123000Z
+DTEND:20270106T140000Z
+SUMMARY:UTBK 2027: PM (Penalaran Matematika)
+DESCRIPTION:Topik Minggu Ini: Barisan & Deret Aritmatika Terapan\nIntensitas: High Focus\nTarget: Abstraksi soal cerita & pemodelan persamaan.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Pengingat Sesi Belajar UTBK: PM (Penalaran Matematika)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:utbk-20270107-1930@antigravity
+DTSTAMP:20261109T042102Z
+DTSTART:20270107T123000Z
+DTEND:20270107T140000Z
+SUMMARY:UTBK 2027: PK & PM (Cross-Drill)
+DESCRIPTION:Topik Minggu Ini: Cross Drill: Pencacahan & Barisan Aritmatika\nIntensitas: High Focus\nTarget: Integrasi soal cerita & kecepatan eksekusi.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Pengingat Sesi Belajar UTBK: PK & PM (Cross-Drill)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:utbk-20270108-2000@antigravity
+DTSTAMP:20261109T042102Z
+DTSTART:20270108T130000Z
+DTEND:20270108T143000Z
+SUMMARY:UTBK 2027: Literasi (LBIng & LBInd) / PBM
+DESCRIPTION:Topik Minggu Ini: LBInd Makna Kata & Hubungan Sebab-Akibat\nIntensitas: Light-Medium\nTarget: Speed reading, main idea, & ketelitian kalimat.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Pengingat Sesi Belajar UTBK: Literasi (LBIng & LBInd) / PBM
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:utbk-20270109-0900@antigravity
+DTSTAMP:20261109T042102Z
+DTSTART:20270109T020000Z
+DTEND:20270109T043000Z
+SUMMARY:UTBK 2027: Simulasi / Try-Out
+DESCRIPTION:Sesi: Simulasi Latihan Soal Mandiri Minggu 2 Jan\nIntensitas: Maximum Focus\nTarget: Pengerjaan soal dengan timer resmi ketat. Jangan buka pembahasan saat tes berlangsung!
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Pengingat Sesi Belajar UTBK: Simulasi / Try-Out
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:utbk-20270110-1500@antigravity
+DTSTAMP:20261109T042102Z
+DTSTART:20270110T080000Z
+DTEND:20270110T093000Z
+SUMMARY:UTBK 2027: Review Error Log & Rest
+DESCRIPTION:Sesi: Error Log Permutasi/Kombinasi & Deret Geometri\nIntensitas: Low/Evaluasi\nTarget: Input seluruh soal salah ke Error Log & konversi ke kartu flashcard Anki.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Pengingat Sesi Belajar UTBK: Review Error Log & Rest
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:utbk-20270111-1930@antigravity
+DTSTAMP:20261109T042102Z
+DTSTART:20270111T123000Z
+DTEND:20270111T140000Z
+SUMMARY:UTBK 2027: PK (Pengetahuan Kuantitatif)
+DESCRIPTION:Topik Minggu Ini: Permutasi P(n,r) vs Kombinasi C(n,r)\nIntensitas: High Focus\nTarget: Bedah konsep & manipulasi rumus.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Pengingat Sesi Belajar UTBK: PK (Pengetahuan Kuantitatif)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:utbk-20270112-1930@antigravity
+DTSTAMP:20261109T042102Z
+DTSTART:20270112T123000Z
+DTEND:20270112T140000Z
+SUMMARY:UTBK 2027: PU (Penalaran Umum)
+DESCRIPTION:Topik Minggu Ini: Penarikan Kuantitatif Dasar (Komparasi Kuantitas P dan Q)\nIntensitas: Medium Focus\nTarget: Drill logika deduktif/induktif & kecepatan.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Pengingat Sesi Belajar UTBK: PU (Penalaran Umum)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:utbk-20270113-1930@antigravity
+DTSTAMP:20261109T042102Z
+DTSTART:20270113T123000Z
+DTEND:20270113T140000Z
+SUMMARY:UTBK 2027: PM (Penalaran Matematika)
+DESCRIPTION:Topik Minggu Ini: Barisan & Deret Geometri (Aplikasi Peluruhan & Pertumbuhan)\nIntensitas: High Focus\nTarget: Abstraksi soal cerita & pemodelan persamaan.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Pengingat Sesi Belajar UTBK: PM (Penalaran Matematika)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:utbk-20270114-1930@antigravity
+DTSTAMP:20261109T042102Z
+DTSTART:20270114T123000Z
+DTEND:20270114T140000Z
+SUMMARY:UTBK 2027: PK & PM (Cross-Drill)
+DESCRIPTION:Topik Minggu Ini: Cross Drill: Kombinasi & Deret Pertumbuhan\nIntensitas: High Focus\nTarget: Integrasi soal cerita & kecepatan eksekusi.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Pengingat Sesi Belajar UTBK: PK & PM (Cross-Drill)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:utbk-20270115-2000@antigravity
+DTSTAMP:20261109T042102Z
+DTSTART:20270115T130000Z
+DTEND:20270115T143000Z
+SUMMARY:UTBK 2027: Literasi (LBIng & LBInd) / PBM
+DESCRIPTION:Topik Minggu Ini: PBM Analisis Bentuk Kata & Imbuhan\nIntensitas: Light-Medium\nTarget: Speed reading, main idea, & ketelitian kalimat.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Pengingat Sesi Belajar UTBK: Literasi (LBIng & LBInd) / PBM
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:utbk-20270116-0900@antigravity
+DTSTAMP:20261109T042102Z
+DTSTART:20270116T020000Z
+DTEND:20270116T043000Z
+SUMMARY:UTBK 2027: Simulasi / Try-Out
+DESCRIPTION:Sesi: Simulasi Latihan Soal Mandiri Minggu 3 Jan\nIntensitas: Maximum Focus\nTarget: Pengerjaan soal dengan timer resmi ketat. Jangan buka pembahasan saat tes berlangsung!
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Pengingat Sesi Belajar UTBK: Simulasi / Try-Out
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:utbk-20270117-1500@antigravity
+DTSTAMP:20261109T042102Z
+DTSTART:20270117T080000Z
+DTEND:20270117T093000Z
+SUMMARY:UTBK 2027: Review Error Log & Rest
+DESCRIPTION:Sesi: Error Log Peluang & Logika Simbolik\nIntensitas: Low/Evaluasi\nTarget: Input seluruh soal salah ke Error Log & konversi ke kartu flashcard Anki.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Pengingat Sesi Belajar UTBK: Review Error Log & Rest
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:utbk-20270118-1930@antigravity
+DTSTAMP:20261109T042102Z
+DTSTART:20270118T123000Z
+DTEND:20270118T140000Z
+SUMMARY:UTBK 2027: PK (Pengetahuan Kuantitatif)
+DESCRIPTION:Topik Minggu Ini: Peluang Kejadian Tunggal, Majemuk, & Peluang Bersyarat\nIntensitas: High Focus\nTarget: Bedah konsep & manipulasi rumus.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Pengingat Sesi Belajar UTBK: PK (Pengetahuan Kuantitatif)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:utbk-20270119-1930@antigravity
+DTSTAMP:20261109T042102Z
+DTSTART:20270119T123000Z
+DTEND:20270119T140000Z
+SUMMARY:UTBK 2027: PU (Penalaran Umum)
+DESCRIPTION:Topik Minggu Ini: Logika Simbolik & Operasi Matematika Buatan (Operator Baru)\nIntensitas: Medium Focus\nTarget: Drill logika deduktif/induktif & kecepatan.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Pengingat Sesi Belajar UTBK: PU (Penalaran Umum)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:utbk-20270120-1930@antigravity
+DTSTAMP:20261109T042102Z
+DTSTART:20270120T123000Z
+DTEND:20270120T140000Z
+SUMMARY:UTBK 2027: PM (Penalaran Matematika)
+DESCRIPTION:Topik Minggu Ini: Deret Geometri Tak Hingga Terapan\nIntensitas: High Focus\nTarget: Abstraksi soal cerita & pemodelan persamaan.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Pengingat Sesi Belajar UTBK: PM (Penalaran Matematika)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:utbk-20270121-1930@antigravity
+DTSTAMP:20261109T042102Z
+DTSTART:20270121T123000Z
+DTEND:20270121T140000Z
+SUMMARY:UTBK 2027: PK & PM (Cross-Drill)
+DESCRIPTION:Topik Minggu Ini: Cross Drill: Peluang Bersyarat & Operator Baru\nIntensitas: High Focus\nTarget: Integrasi soal cerita & kecepatan eksekusi.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Pengingat Sesi Belajar UTBK: PK & PM (Cross-Drill)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:utbk-20270122-2000@antigravity
+DTSTAMP:20261109T042102Z
+DTSTART:20270122T130000Z
+DTEND:20270122T143000Z
+SUMMARY:UTBK 2027: Literasi (LBIng & LBInd) / PBM
+DESCRIPTION:Topik Minggu Ini: LBIng Reading Comprehension + TO 3\nIntensitas: Light-Medium\nTarget: Speed reading, main idea, & ketelitian kalimat.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Pengingat Sesi Belajar UTBK: Literasi (LBIng & LBInd) / PBM
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:utbk-20270123-0900@antigravity
+DTSTAMP:20261109T042102Z
+DTSTART:20270123T020000Z
+DTEND:20270123T043000Z
+SUMMARY:UTBK 2027: Simulasi / Try-Out
+DESCRIPTION:Sesi: Try-Out 3 (Evaluasi Mid-Roadmap Fase 1)\nIntensitas: Maximum Focus\nTarget: Pengerjaan soal dengan timer resmi ketat. Jangan buka pembahasan saat tes berlangsung!
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Pengingat Sesi Belajar UTBK: Simulasi / Try-Out
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:utbk-20270124-1500@antigravity
+DTSTAMP:20261109T042102Z
+DTSTART:20270124T080000Z
+DTEND:20270124T093000Z
+SUMMARY:UTBK 2027: Review Error Log & Rest
+DESCRIPTION:Sesi: Deep Review Error Log Try-Out 3 (Audit 3 Bulan)\nIntensitas: Low/Evaluasi\nTarget: Input seluruh soal salah ke Error Log & konversi ke kartu flashcard Anki.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Pengingat Sesi Belajar UTBK: Review Error Log & Rest
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:utbk-20270125-1930@antigravity
+DTSTAMP:20261109T042102Z
+DTSTART:20270125T123000Z
+DTEND:20270125T140000Z
+SUMMARY:UTBK 2027: PK (Pengetahuan Kuantitatif)
+DESCRIPTION:Topik Minggu Ini: Matriks (Operasi Dasar, Determinan, Invers)\nIntensitas: High Focus\nTarget: Bedah konsep & manipulasi rumus.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Pengingat Sesi Belajar UTBK: PK (Pengetahuan Kuantitatif)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:utbk-20270126-1930@antigravity
+DTSTAMP:20261109T042102Z
+DTSTART:20270126T123000Z
+DTEND:20270126T140000Z
+SUMMARY:UTBK 2027: PU (Penalaran Umum)
+DESCRIPTION:Topik Minggu Ini: Review Penalaran Umum & Evaluasi Kecepatan Soal Deret/Silogisme\nIntensitas: Medium Focus\nTarget: Drill logika deduktif/induktif & kecepatan.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Pengingat Sesi Belajar UTBK: PU (Penalaran Umum)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:utbk-20270127-1930@antigravity
+DTSTAMP:20261109T042102Z
+DTSTART:20270127T123000Z
+DTEND:20270127T140000Z
+SUMMARY:UTBK 2027: PM (Penalaran Matematika)
+DESCRIPTION:Topik Minggu Ini: Pemodelan Matriks dalam Sistem Persamaan\nIntensitas: High Focus\nTarget: Abstraksi soal cerita & pemodelan persamaan.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Pengingat Sesi Belajar UTBK: PM (Penalaran Matematika)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:utbk-20270128-1930@antigravity
+DTSTAMP:20261109T042102Z
+DTSTART:20270128T123000Z
+DTEND:20270128T140000Z
+SUMMARY:UTBK 2027: PK & PM (Cross-Drill)
+DESCRIPTION:Topik Minggu Ini: Cross Drill: Matriks & Sistem Persamaan\nIntensitas: High Focus\nTarget: Integrasi soal cerita & kecepatan eksekusi.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Pengingat Sesi Belajar UTBK: PK & PM (Cross-Drill)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:utbk-20270129-2000@antigravity
+DTSTAMP:20261109T042102Z
+DTSTART:20270129T130000Z
+DTEND:20270129T143000Z
+SUMMARY:UTBK 2027: Literasi (LBIng & LBInd) / PBM
+DESCRIPTION:Topik Minggu Ini: LBIng Reading Comprehension + TO 3\nIntensitas: Light-Medium\nTarget: Speed reading, main idea, & ketelitian kalimat.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Pengingat Sesi Belajar UTBK: Literasi (LBIng & LBInd) / PBM
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:utbk-20270130-0900@antigravity
+DTSTAMP:20261109T042102Z
+DTSTART:20270130T020000Z
+DTEND:20270130T043000Z
+SUMMARY:UTBK 2027: Simulasi / Try-Out
+DESCRIPTION:Sesi: Try-Out 3 (Evaluasi Mid-Roadmap Fase 1)\nIntensitas: Maximum Focus\nTarget: Pengerjaan soal dengan timer resmi ketat. Jangan buka pembahasan saat tes berlangsung!
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Pengingat Sesi Belajar UTBK: Simulasi / Try-Out
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:utbk-20270131-1500@antigravity
+DTSTAMP:20261109T042102Z
+DTSTART:20270131T080000Z
+DTEND:20270131T093000Z
+SUMMARY:UTBK 2027: Review Error Log & Rest
+DESCRIPTION:Sesi: Deep Review Error Log Try-Out 3 (Audit 3 Bulan)\nIntensitas: Low/Evaluasi\nTarget: Input seluruh soal salah ke Error Log & konversi ke kartu flashcard Anki.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Pengingat Sesi Belajar UTBK: Review Error Log & Rest
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:utbk-20270201-1930@antigravity
+DTSTAMP:20261109T042102Z
+DTSTART:20270201T123000Z
+DTEND:20270201T140000Z
+SUMMARY:UTBK 2027: PK (Pengetahuan Kuantitatif)
+DESCRIPTION:Topik Minggu Ini: Speed Drill Tipe Soal Hubungan P vs Q & Kecukupan Data\nIntensitas: High Focus\nTarget: Bedah konsep & manipulasi rumus.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Pengingat Sesi Belajar UTBK: PK (Pengetahuan Kuantitatif)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:utbk-20270202-1930@antigravity
+DTSTAMP:20261109T042102Z
+DTSTART:20270202T123000Z
+DTEND:20270202T140000Z
+SUMMARY:UTBK 2027: PU (Penalaran Umum)
+DESCRIPTION:Topik Minggu Ini: Trik Memecahkan Deret Kompleks dalam Waktu < 40 Detik\nIntensitas: Medium Focus\nTarget: Drill logika deduktif/induktif & kecepatan.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Pengingat Sesi Belajar UTBK: PU (Penalaran Umum)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:utbk-20270203-1930@antigravity
+DTSTAMP:20261109T042102Z
+DTSTART:20270203T123000Z
+DTEND:20270203T140000Z
+SUMMARY:UTBK 2027: PM (Penalaran Matematika)
+DESCRIPTION:Topik Minggu Ini: Soal Cerita Kombinasi Aljabar + Geometri\nIntensitas: High Focus\nTarget: Abstraksi soal cerita & pemodelan persamaan.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Pengingat Sesi Belajar UTBK: PM (Penalaran Matematika)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:utbk-20270204-1930@antigravity
+DTSTAMP:20261109T042102Z
+DTSTART:20270204T123000Z
+DTEND:20270204T140000Z
+SUMMARY:UTBK 2027: PK & PM (Cross-Drill)
+DESCRIPTION:Topik Minggu Ini: Time-Attack PK & PM Soal Kecukupan Data\nIntensitas: High Focus\nTarget: Integrasi soal cerita & kecepatan eksekusi.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Pengingat Sesi Belajar UTBK: PK & PM (Cross-Drill)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:utbk-20270205-2000@antigravity
+DTSTAMP:20261109T042102Z
+DTSTART:20270205T130000Z
+DTEND:20270205T143000Z
+SUMMARY:UTBK 2027: Literasi (LBIng & LBInd) / PBM
+DESCRIPTION:Topik Minggu Ini: LBInd Analisis Struktur Teks Eksposisi & Argumentasi\nIntensitas: Light-Medium\nTarget: Speed reading, main idea, & ketelitian kalimat.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Pengingat Sesi Belajar UTBK: Literasi (LBIng & LBInd) / PBM
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:utbk-20270206-0900@antigravity
+DTSTAMP:20261109T042102Z
+DTSTART:20270206T020000Z
+DTEND:20270206T043000Z
+SUMMARY:UTBK 2027: Simulasi / Try-Out
+DESCRIPTION:Sesi: Simulasi Latihan Soal Mandiri Minggu 1 Feb\nIntensitas: Maximum Focus\nTarget: Pengerjaan soal dengan timer resmi ketat. Jangan buka pembahasan saat tes berlangsung!
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Pengingat Sesi Belajar UTBK: Simulasi / Try-Out
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:utbk-20270207-1500@antigravity
+DTSTAMP:20261109T042102Z
+DTSTART:20270207T080000Z
+DTEND:20270207T093000Z
+SUMMARY:UTBK 2027: Review Error Log & Rest
+DESCRIPTION:Sesi: Error Log Speed Drill P vs Q & Deret Cepat\nIntensitas: Low/Evaluasi\nTarget: Input seluruh soal salah ke Error Log & konversi ke kartu flashcard Anki.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Pengingat Sesi Belajar UTBK: Review Error Log & Rest
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:utbk-20270208-1930@antigravity
+DTSTAMP:20261109T042102Z
+DTSTART:20270208T123000Z
+DTEND:20270208T140000Z
+SUMMARY:UTBK 2027: PK (Pengetahuan Kuantitatif)
+DESCRIPTION:Topik Minggu Ini: Drill Soal Isian Singkat Kuantitatif (Akurasi Tanpa Opsi)\nIntensitas: High Focus\nTarget: Bedah konsep & manipulasi rumus.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Pengingat Sesi Belajar UTBK: PK (Pengetahuan Kuantitatif)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:utbk-20270209-1930@antigravity
+DTSTAMP:20261109T042102Z
+DTSTART:20270209T123000Z
+DTEND:20270209T140000Z
+SUMMARY:UTBK 2027: PU (Penalaran Umum)
+DESCRIPTION:Topik Minggu Ini: Evaluasi Penalaran Deduktif Kompleks (Teks Panjang)\nIntensitas: Medium Focus\nTarget: Drill logika deduktif/induktif & kecepatan.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Pengingat Sesi Belajar UTBK: PU (Penalaran Umum)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:utbk-20270210-1930@antigravity
+DTSTAMP:20261109T042102Z
+DTSTART:20270210T123000Z
+DTEND:20270210T140000Z
+SUMMARY:UTBK 2027: PM (Penalaran Matematika)
+DESCRIPTION:Topik Minggu Ini: Pemodelan Grafik & Tren Data Bisnis/Sains\nIntensitas: High Focus\nTarget: Abstraksi soal cerita & pemodelan persamaan.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Pengingat Sesi Belajar UTBK: PM (Penalaran Matematika)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:utbk-20270211-1930@antigravity
+DTSTAMP:20261109T042102Z
+DTSTART:20270211T123000Z
+DTEND:20270211T140000Z
+SUMMARY:UTBK 2027: PK & PM (Cross-Drill)
+DESCRIPTION:Topik Minggu Ini: Time-Attack Soal Isian Singkat & Grafik Tren\nIntensitas: High Focus\nTarget: Integrasi soal cerita & kecepatan eksekusi.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Pengingat Sesi Belajar UTBK: PK & PM (Cross-Drill)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:utbk-20270212-2000@antigravity
+DTSTAMP:20261109T042102Z
+DTSTART:20270212T130000Z
+DTEND:20270212T143000Z
+SUMMARY:UTBK 2027: Literasi (LBIng & LBInd) / PBM
+DESCRIPTION:Topik Minggu Ini: LBIng Inference & Detail Questions Strategy\nIntensitas: Light-Medium\nTarget: Speed reading, main idea, & ketelitian kalimat.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Pengingat Sesi Belajar UTBK: Literasi (LBIng & LBInd) / PBM
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:utbk-20270213-0900@antigravity
+DTSTAMP:20261109T042102Z
+DTSTART:20270213T020000Z
+DTEND:20270213T043000Z
+SUMMARY:UTBK 2027: Simulasi / Try-Out
+DESCRIPTION:Sesi: Simulasi Latihan Soal Mandiri Minggu 2 Feb\nIntensitas: Maximum Focus\nTarget: Pengerjaan soal dengan timer resmi ketat. Jangan buka pembahasan saat tes berlangsung!
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Pengingat Sesi Belajar UTBK: Simulasi / Try-Out
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:utbk-20270214-1500@antigravity
+DTSTAMP:20261109T042102Z
+DTSTART:20270214T080000Z
+DTEND:20270214T093000Z
+SUMMARY:UTBK 2027: Review Error Log & Rest
+DESCRIPTION:Sesi: Error Log Isian Singkat Kuantitatif\nIntensitas: Low/Evaluasi\nTarget: Input seluruh soal salah ke Error Log & konversi ke kartu flashcard Anki.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Pengingat Sesi Belajar UTBK: Review Error Log & Rest
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:utbk-20270215-1930@antigravity
+DTSTAMP:20261109T042102Z
+DTSTART:20270215T123000Z
+DTEND:20270215T140000Z
+SUMMARY:UTBK 2027: PK (Pengetahuan Kuantitatif)
+DESCRIPTION:Topik Minggu Ini: Variasi Soal Peluang & Kombinatorika UTBK Asli\nIntensitas: High Focus\nTarget: Bedah konsep & manipulasi rumus.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Pengingat Sesi Belajar UTBK: PK (Pengetahuan Kuantitatif)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:utbk-20270216-1930@antigravity
+DTSTAMP:20261109T042102Z
+DTSTART:20270216T123000Z
+DTEND:20270216T140000Z
+SUMMARY:UTBK 2027: PU (Penalaran Umum)
+DESCRIPTION:Topik Minggu Ini: Penarikan Analitis Lanjutan (Kombinasi Syarat Batas)\nIntensitas: Medium Focus\nTarget: Drill logika deduktif/induktif & kecepatan.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Pengingat Sesi Belajar UTBK: PU (Penalaran Umum)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:utbk-20270217-1930@antigravity
+DTSTAMP:20261109T042102Z
+DTSTART:20270217T123000Z
+DTEND:20270217T140000Z
+SUMMARY:UTBK 2027: PM (Penalaran Matematika)
+DESCRIPTION:Topik Minggu Ini: Optimasi Sederhana & Fungsi Kendala (Program Linear)\nIntensitas: High Focus\nTarget: Abstraksi soal cerita & pemodelan persamaan.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Pengingat Sesi Belajar UTBK: PM (Penalaran Matematika)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:utbk-20270218-1930@antigravity
+DTSTAMP:20261109T042102Z
+DTSTART:20270218T123000Z
+DTEND:20270218T140000Z
+SUMMARY:UTBK 2027: PK & PM (Cross-Drill)
+DESCRIPTION:Topik Minggu Ini: Cross Drill: Peluang & Program Linear\nIntensitas: High Focus\nTarget: Integrasi soal cerita & kecepatan eksekusi.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Pengingat Sesi Belajar UTBK: PK & PM (Cross-Drill)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:utbk-20270219-2000@antigravity
+DTSTAMP:20261109T042102Z
+DTSTART:20270219T130000Z
+DTEND:20270219T143000Z
+SUMMARY:UTBK 2027: Literasi (LBIng & LBInd) / PBM
+DESCRIPTION:Topik Minggu Ini: PBM & Ejaan Khusus Tanda Baca & Konjungsi\nIntensitas: Light-Medium\nTarget: Speed reading, main idea, & ketelitian kalimat.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Pengingat Sesi Belajar UTBK: Literasi (LBIng & LBInd) / PBM
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:utbk-20270220-0900@antigravity
+DTSTAMP:20261109T042102Z
+DTSTART:20270220T020000Z
+DTEND:20270220T043000Z
+SUMMARY:UTBK 2027: Simulasi / Try-Out
+DESCRIPTION:Sesi: Simulasi Latihan Soal Mandiri Minggu 3 Feb\nIntensitas: Maximum Focus\nTarget: Pengerjaan soal dengan timer resmi ketat. Jangan buka pembahasan saat tes berlangsung!
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Pengingat Sesi Belajar UTBK: Simulasi / Try-Out
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:utbk-20270221-1500@antigravity
+DTSTAMP:20261109T042102Z
+DTSTART:20270221T080000Z
+DTEND:20270221T093000Z
+SUMMARY:UTBK 2027: Review Error Log & Rest
+DESCRIPTION:Sesi: Error Log Peluang & Syarat Batas Analitis\nIntensitas: Low/Evaluasi\nTarget: Input seluruh soal salah ke Error Log & konversi ke kartu flashcard Anki.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Pengingat Sesi Belajar UTBK: Review Error Log & Rest
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:utbk-20270222-1930@antigravity
+DTSTAMP:20261109T042102Z
+DTSTART:20270222T123000Z
+DTEND:20270222T140000Z
+SUMMARY:UTBK 2027: PK (Pengetahuan Kuantitatif)
+DESCRIPTION:Topik Minggu Ini: Time-Attack Drill: 20 Soal PK dalam 25 Menit\nIntensitas: High Focus\nTarget: Bedah konsep & manipulasi rumus.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Pengingat Sesi Belajar UTBK: PK (Pengetahuan Kuantitatif)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:utbk-20270223-1930@antigravity
+DTSTAMP:20261109T042102Z
+DTSTART:20270223T123000Z
+DTEND:20270223T140000Z
+SUMMARY:UTBK 2027: PU (Penalaran Umum)
+DESCRIPTION:Topik Minggu Ini: Time-Attack Drill: 30 Soal PU dalam 30 Menit\nIntensitas: Medium Focus\nTarget: Drill logika deduktif/induktif & kecepatan.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Pengingat Sesi Belajar UTBK: PU (Penalaran Umum)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:utbk-20270224-1930@antigravity
+DTSTAMP:20261109T042102Z
+DTSTART:20270224T123000Z
+DTEND:20270224T140000Z
+SUMMARY:UTBK 2027: PM (Penalaran Matematika)
+DESCRIPTION:Topik Minggu Ini: Time-Attack Drill: 20 Soal PM dalam 30 Menit\nIntensitas: High Focus\nTarget: Abstraksi soal cerita & pemodelan persamaan.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Pengingat Sesi Belajar UTBK: PM (Penalaran Matematika)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:utbk-20270225-1930@antigravity
+DTSTAMP:20261109T042102Z
+DTSTART:20270225T123000Z
+DTEND:20270225T140000Z
+SUMMARY:UTBK 2027: PK & PM (Cross-Drill)
+DESCRIPTION:Topik Minggu Ini: Full Cross-Subtes Time Attack\nIntensitas: High Focus\nTarget: Integrasi soal cerita & kecepatan eksekusi.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Pengingat Sesi Belajar UTBK: PK & PM (Cross-Drill)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:utbk-20270226-2000@antigravity
+DTSTAMP:20261109T042102Z
+DTSTART:20270226T130000Z
+DTEND:20270226T143000Z
+SUMMARY:UTBK 2027: Literasi (LBIng & LBInd) / PBM
+DESCRIPTION:Topik Minggu Ini: LBIng Fast Scanning + Try-Out 4\nIntensitas: Light-Medium\nTarget: Speed reading, main idea, & ketelitian kalimat.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Pengingat Sesi Belajar UTBK: Literasi (LBIng & LBInd) / PBM
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:utbk-20270227-0900@antigravity
+DTSTAMP:20261109T042102Z
+DTSTART:20270227T020000Z
+DTEND:20270227T043000Z
+SUMMARY:UTBK 2027: Simulasi / Try-Out
+DESCRIPTION:Sesi: Try-Out 4 (Simulasi Speed & Pressure)\nIntensitas: Maximum Focus\nTarget: Pengerjaan soal dengan timer resmi ketat. Jangan buka pembahasan saat tes berlangsung!
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Pengingat Sesi Belajar UTBK: Simulasi / Try-Out
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:utbk-20270228-1500@antigravity
+DTSTAMP:20261109T042102Z
+DTSTART:20270228T080000Z
+DTEND:20270228T093000Z
+SUMMARY:UTBK 2027: Review Error Log & Rest
+DESCRIPTION:Sesi: Deep Review Error Log Try-Out 4\nIntensitas: Low/Evaluasi\nTarget: Input seluruh soal salah ke Error Log & konversi ke kartu flashcard Anki.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Pengingat Sesi Belajar UTBK: Review Error Log & Rest
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:utbk-20270301-1930@antigravity
+DTSTAMP:20261109T042102Z
+DTSTART:20270301T123000Z
+DTEND:20270301T140000Z
+SUMMARY:UTBK 2027: PK (Pengetahuan Kuantitatif)
+DESCRIPTION:Topik Minggu Ini: Review Topik Kelemahan Utama Berdasarkan TO 1–4\nIntensitas: High Focus\nTarget: Bedah konsep & manipulasi rumus.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Pengingat Sesi Belajar UTBK: PK (Pengetahuan Kuantitatif)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:utbk-20270302-1930@antigravity
+DTSTAMP:20261109T042102Z
+DTSTART:20270302T123000Z
+DTEND:20270302T140000Z
+SUMMARY:UTBK 2027: PU (Penalaran Umum)
+DESCRIPTION:Topik Minggu Ini: Bedah Soal PU Kuantitatif Berpola Rumit\nIntensitas: Medium Focus\nTarget: Drill logika deduktif/induktif & kecepatan.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Pengingat Sesi Belajar UTBK: PU (Penalaran Umum)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:utbk-20270303-1930@antigravity
+DTSTAMP:20261109T042102Z
+DTSTART:20270303T123000Z
+DTEND:20270303T140000Z
+SUMMARY:UTBK 2027: PM (Penalaran Matematika)
+DESCRIPTION:Topik Minggu Ini: Soal Studi Kasus Matematika Keuangan & Distribusi Data\nIntensitas: High Focus\nTarget: Abstraksi soal cerita & pemodelan persamaan.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Pengingat Sesi Belajar UTBK: PM (Penalaran Matematika)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:utbk-20270304-1930@antigravity
+DTSTAMP:20261109T042102Z
+DTSTART:20270304T123000Z
+DTEND:20270304T140000Z
+SUMMARY:UTBK 2027: PK & PM (Cross-Drill)
+DESCRIPTION:Topik Minggu Ini: Drill Penguatan Titik Lemah Teridentifikasi\nIntensitas: High Focus\nTarget: Integrasi soal cerita & kecepatan eksekusi.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Pengingat Sesi Belajar UTBK: PK & PM (Cross-Drill)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:utbk-20270305-2000@antigravity
+DTSTAMP:20261109T042102Z
+DTSTART:20270305T130000Z
+DTEND:20270305T143000Z
+SUMMARY:UTBK 2027: Literasi (LBIng & LBInd) / PBM
+DESCRIPTION:Topik Minggu Ini: LBInd Strategi Scanning Soal Literasi Panjang\nIntensitas: Light-Medium\nTarget: Speed reading, main idea, & ketelitian kalimat.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Pengingat Sesi Belajar UTBK: Literasi (LBIng & LBInd) / PBM
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:utbk-20270306-0900@antigravity
+DTSTAMP:20261109T042102Z
+DTSTART:20270306T020000Z
+DTEND:20270306T043000Z
+SUMMARY:UTBK 2027: Simulasi / Try-Out
+DESCRIPTION:Sesi: Simulasi Latihan Soal Mandiri Minggu 1 Mar\nIntensitas: Maximum Focus\nTarget: Pengerjaan soal dengan timer resmi ketat. Jangan buka pembahasan saat tes berlangsung!
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Pengingat Sesi Belajar UTBK: Simulasi / Try-Out
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:utbk-20270307-1500@antigravity
+DTSTAMP:20261109T042102Z
+DTSTART:20270307T080000Z
+DTEND:20270307T093000Z
+SUMMARY:UTBK 2027: Review Error Log & Rest
+DESCRIPTION:Sesi: Error Log Review Titik Lemah TO 1-4\nIntensitas: Low/Evaluasi\nTarget: Input seluruh soal salah ke Error Log & konversi ke kartu flashcard Anki.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Pengingat Sesi Belajar UTBK: Review Error Log & Rest
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:utbk-20270308-1930@antigravity
+DTSTAMP:20261109T042102Z
+DTSTART:20270308T123000Z
+DTEND:20270308T140000Z
+SUMMARY:UTBK 2027: PK (Pengetahuan Kuantitatif)
+DESCRIPTION:Topik Minggu Ini: Drill Integrasi Aljabar, Fungsi, & Garis Lurus\nIntensitas: High Focus\nTarget: Bedah konsep & manipulasi rumus.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Pengingat Sesi Belajar UTBK: PK (Pengetahuan Kuantitatif)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:utbk-20270309-1930@antigravity
+DTSTAMP:20261109T042102Z
+DTSTART:20270309T123000Z
+DTEND:20270309T140000Z
+SUMMARY:UTBK 2027: PU (Penalaran Umum)
+DESCRIPTION:Topik Minggu Ini: Speed Test Pola Gambar & Spatial Reasoning\nIntensitas: Medium Focus\nTarget: Drill logika deduktif/induktif & kecepatan.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Pengingat Sesi Belajar UTBK: PU (Penalaran Umum)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:utbk-20270310-1930@antigravity
+DTSTAMP:20261109T042102Z
+DTSTART:20270310T123000Z
+DTEND:20270310T140000Z
+SUMMARY:UTBK 2027: PM (Penalaran Matematika)
+DESCRIPTION:Topik Minggu Ini: Pembahasan Soal HOTS Pemodelan Kompleks\nIntensitas: High Focus\nTarget: Abstraksi soal cerita & pemodelan persamaan.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Pengingat Sesi Belajar UTBK: PM (Penalaran Matematika)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:utbk-20270311-1930@antigravity
+DTSTAMP:20261109T042102Z
+DTSTART:20270311T123000Z
+DTEND:20270311T140000Z
+SUMMARY:UTBK 2027: PK & PM (Cross-Drill)
+DESCRIPTION:Topik Minggu Ini: Integrasi Aljabar-Fungsi & Soal HOTS\nIntensitas: High Focus\nTarget: Integrasi soal cerita & kecepatan eksekusi.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Pengingat Sesi Belajar UTBK: PK & PM (Cross-Drill)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:utbk-20270312-2000@antigravity
+DTSTAMP:20261109T042102Z
+DTSTART:20270312T130000Z
+DTEND:20270312T143000Z
+SUMMARY:UTBK 2027: Literasi (LBIng & LBInd) / PBM
+DESCRIPTION:Topik Minggu Ini: LBIng Reading Comprehension Complex Tones\nIntensitas: Light-Medium\nTarget: Speed reading, main idea, & ketelitian kalimat.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Pengingat Sesi Belajar UTBK: Literasi (LBIng & LBInd) / PBM
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:utbk-20270313-0900@antigravity
+DTSTAMP:20261109T042102Z
+DTSTART:20270313T020000Z
+DTEND:20270313T043000Z
+SUMMARY:UTBK 2027: Simulasi / Try-Out
+DESCRIPTION:Sesi: Simulasi Latihan Soal Mandiri Minggu 2 Mar\nIntensitas: Maximum Focus\nTarget: Pengerjaan soal dengan timer resmi ketat. Jangan buka pembahasan saat tes berlangsung!
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Pengingat Sesi Belajar UTBK: Simulasi / Try-Out
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:utbk-20270314-1500@antigravity
+DTSTAMP:20261109T042102Z
+DTSTART:20270314T080000Z
+DTEND:20270314T093000Z
+SUMMARY:UTBK 2027: Review Error Log & Rest
+DESCRIPTION:Sesi: Error Log Soal HOTS & Pola Gambar\nIntensitas: Low/Evaluasi\nTarget: Input seluruh soal salah ke Error Log & konversi ke kartu flashcard Anki.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Pengingat Sesi Belajar UTBK: Review Error Log & Rest
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:utbk-20270315-1930@antigravity
+DTSTAMP:20261109T042102Z
+DTSTART:20270315T123000Z
+DTEND:20270315T140000Z
+SUMMARY:UTBK 2027: PK (Pengetahuan Kuantitatif)
+DESCRIPTION:Topik Minggu Ini: Geometri Ruang & Peluang Kombinasi HOTS\nIntensitas: High Focus\nTarget: Bedah konsep & manipulasi rumus.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Pengingat Sesi Belajar UTBK: PK (Pengetahuan Kuantitatif)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:utbk-20270316-1930@antigravity
+DTSTAMP:20261109T042102Z
+DTSTART:20270316T123000Z
+DTEND:20270316T140000Z
+SUMMARY:UTBK 2027: PU (Penalaran Umum)
+DESCRIPTION:Topik Minggu Ini: Latihan Konsistensi Logika (Menghindari Traps/Jebakan)\nIntensitas: Medium Focus\nTarget: Drill logika deduktif/induktif & kecepatan.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Pengingat Sesi Belajar UTBK: PU (Penalaran Umum)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:utbk-20270317-1930@antigravity
+DTSTAMP:20261109T042102Z
+DTSTART:20270317T123000Z
+DTEND:20270317T140000Z
+SUMMARY:UTBK 2027: PM (Penalaran Matematika)
+DESCRIPTION:Topik Minggu Ini: Studi Kasus Soal Cerita Sains & Matematika Terapan\nIntensitas: High Focus\nTarget: Abstraksi soal cerita & pemodelan persamaan.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Pengingat Sesi Belajar UTBK: PM (Penalaran Matematika)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:utbk-20270318-1930@antigravity
+DTSTAMP:20261109T042102Z
+DTSTART:20270318T123000Z
+DTEND:20270318T140000Z
+SUMMARY:UTBK 2027: PK & PM (Cross-Drill)
+DESCRIPTION:Topik Minggu Ini: Drill Jebakan Logika & HOTS Geometri\nIntensitas: High Focus\nTarget: Integrasi soal cerita & kecepatan eksekusi.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Pengingat Sesi Belajar UTBK: PK & PM (Cross-Drill)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:utbk-20270319-2000@antigravity
+DTSTAMP:20261109T042102Z
+DTSTART:20270319T130000Z
+DTEND:20270319T143000Z
+SUMMARY:UTBK 2027: Literasi (LBIng & LBInd) / PBM
+DESCRIPTION:Topik Minggu Ini: Flash Drill: LBInd & PBM Ketelitian Tinggi\nIntensitas: Light-Medium\nTarget: Speed reading, main idea, & ketelitian kalimat.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Pengingat Sesi Belajar UTBK: Literasi (LBIng & LBInd) / PBM
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:utbk-20270320-0900@antigravity
+DTSTAMP:20261109T042102Z
+DTSTART:20270320T020000Z
+DTEND:20270320T043000Z
+SUMMARY:UTBK 2027: Simulasi / Try-Out
+DESCRIPTION:Sesi: Simulasi Latihan Soal Mandiri Minggu 3 Mar\nIntensitas: Maximum Focus\nTarget: Pengerjaan soal dengan timer resmi ketat. Jangan buka pembahasan saat tes berlangsung!
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Pengingat Sesi Belajar UTBK: Simulasi / Try-Out
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:utbk-20270321-1500@antigravity
+DTSTAMP:20261109T042102Z
+DTSTART:20270321T080000Z
+DTEND:20270321T093000Z
+SUMMARY:UTBK 2027: Review Error Log & Rest
+DESCRIPTION:Sesi: Error Log Jebakan Soal & Peluang HOTS\nIntensitas: Low/Evaluasi\nTarget: Input seluruh soal salah ke Error Log & konversi ke kartu flashcard Anki.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Pengingat Sesi Belajar UTBK: Review Error Log & Rest
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:utbk-20270322-1930@antigravity
+DTSTAMP:20261109T042102Z
+DTSTART:20270322T123000Z
+DTEND:20270322T140000Z
+SUMMARY:UTBK 2027: PK (Pengetahuan Kuantitatif)
+DESCRIPTION:Topik Minggu Ini: Pemantapan Materi Kunci Prioritas Skor 700+\nIntensitas: High Focus\nTarget: Bedah konsep & manipulasi rumus.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Pengingat Sesi Belajar UTBK: PK (Pengetahuan Kuantitatif)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:utbk-20270323-1930@antigravity
+DTSTAMP:20261109T042102Z
+DTSTART:20270323T123000Z
+DTEND:20270323T140000Z
+SUMMARY:UTBK 2027: PU (Penalaran Umum)
+DESCRIPTION:Topik Minggu Ini: Pemantapan Strategi Eliminasi Jawaban Cepat\nIntensitas: Medium Focus\nTarget: Drill logika deduktif/induktif & kecepatan.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Pengingat Sesi Belajar UTBK: PU (Penalaran Umum)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:utbk-20270324-1930@antigravity
+DTSTAMP:20261109T042102Z
+DTSTART:20270324T123000Z
+DTEND:20270324T140000Z
+SUMMARY:UTBK 2027: PM (Penalaran Matematika)
+DESCRIPTION:Topik Minggu Ini: Pemantapan Trik Hitung Cepat Soal Cerita\nIntensitas: High Focus\nTarget: Abstraksi soal cerita & pemodelan persamaan.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Pengingat Sesi Belajar UTBK: PM (Penalaran Matematika)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:utbk-20270325-1930@antigravity
+DTSTAMP:20261109T042102Z
+DTSTART:20270325T123000Z
+DTEND:20270325T140000Z
+SUMMARY:UTBK 2027: PK & PM (Cross-Drill)
+DESCRIPTION:Topik Minggu Ini: Simulasi Mini Subtes Campuran\nIntensitas: High Focus\nTarget: Integrasi soal cerita & kecepatan eksekusi.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Pengingat Sesi Belajar UTBK: PK & PM (Cross-Drill)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:utbk-20270326-2000@antigravity
+DTSTAMP:20261109T042102Z
+DTSTART:20270326T130000Z
+DTEND:20270326T143000Z
+SUMMARY:UTBK 2027: Literasi (LBIng & LBInd) / PBM
+DESCRIPTION:Topik Minggu Ini: PBM & Literasi Speed Test + TO 5\nIntensitas: Light-Medium\nTarget: Speed reading, main idea, & ketelitian kalimat.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Pengingat Sesi Belajar UTBK: Literasi (LBIng & LBInd) / PBM
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:utbk-20270327-0900@antigravity
+DTSTAMP:20261109T042102Z
+DTSTART:20270327T020000Z
+DTEND:20270327T043000Z
+SUMMARY:UTBK 2027: Simulasi / Try-Out
+DESCRIPTION:Sesi: Try-Out 5 (Sistem IRT & Pembobotan Resmi)\nIntensitas: Maximum Focus\nTarget: Pengerjaan soal dengan timer resmi ketat. Jangan buka pembahasan saat tes berlangsung!
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Pengingat Sesi Belajar UTBK: Simulasi / Try-Out
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:utbk-20270328-1500@antigravity
+DTSTAMP:20261109T042102Z
+DTSTART:20270328T080000Z
+DTEND:20270328T093000Z
+SUMMARY:UTBK 2027: Review Error Log & Rest
+DESCRIPTION:Sesi: Deep Analysis Error Log TO 5 & Finalisasi Pilihan PTN\nIntensitas: Low/Evaluasi\nTarget: Input seluruh soal salah ke Error Log & konversi ke kartu flashcard Anki.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Pengingat Sesi Belajar UTBK: Review Error Log & Rest
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:utbk-20270329-1930@antigravity
+DTSTAMP:20261109T042102Z
+DTSTART:20270329T123000Z
+DTEND:20270329T140000Z
+SUMMARY:UTBK 2027: PK (Pengetahuan Kuantitatif)
+DESCRIPTION:Topik Minggu Ini: Pemantapan Materi Kunci Prioritas Skor 700+\nIntensitas: High Focus\nTarget: Bedah konsep & manipulasi rumus.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Pengingat Sesi Belajar UTBK: PK (Pengetahuan Kuantitatif)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:utbk-20270330-1930@antigravity
+DTSTAMP:20261109T042102Z
+DTSTART:20270330T123000Z
+DTEND:20270330T140000Z
+SUMMARY:UTBK 2027: PU (Penalaran Umum)
+DESCRIPTION:Topik Minggu Ini: Pemantapan Strategi Eliminasi Jawaban Cepat\nIntensitas: Medium Focus\nTarget: Drill logika deduktif/induktif & kecepatan.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Pengingat Sesi Belajar UTBK: PU (Penalaran Umum)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:utbk-20270331-1930@antigravity
+DTSTAMP:20261109T042102Z
+DTSTART:20270331T123000Z
+DTEND:20270331T140000Z
+SUMMARY:UTBK 2027: PM (Penalaran Matematika)
+DESCRIPTION:Topik Minggu Ini: Pemantapan Trik Hitung Cepat Soal Cerita\nIntensitas: High Focus\nTarget: Abstraksi soal cerita & pemodelan persamaan.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Pengingat Sesi Belajar UTBK: PM (Penalaran Matematika)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:utbk-20270401-1930@antigravity
+DTSTAMP:20261109T042102Z
+DTSTART:20270401T123000Z
+DTEND:20270401T140000Z
+SUMMARY:UTBK 2027: PK & PM (Cross-Drill)
+DESCRIPTION:Topik Minggu Ini: Drill Tertarget Topik Lemah\nIntensitas: High Focus\nTarget: Integrasi soal cerita & kecepatan eksekusi.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Pengingat Sesi Belajar UTBK: PK & PM (Cross-Drill)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:utbk-20270402-2000@antigravity
+DTSTAMP:20261109T042102Z
+DTSTART:20270402T130000Z
+DTEND:20270402T143000Z
+SUMMARY:UTBK 2027: Literasi (LBIng & LBInd) / PBM
+DESCRIPTION:Topik Minggu Ini: Light Reading & Vocabulary Refresh\nIntensitas: Light-Medium\nTarget: Speed reading, main idea, & ketelitian kalimat.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Pengingat Sesi Belajar UTBK: Literasi (LBIng & LBInd) / PBM
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:utbk-20270403-0900@antigravity
+DTSTAMP:20261109T042102Z
+DTSTART:20270403T020000Z
+DTEND:20270403T043000Z
+SUMMARY:UTBK 2027: Simulasi / Try-Out
+DESCRIPTION:Sesi: Simulasi TO 6 (Full Subtes & Time Management)\nIntensitas: Maximum Focus\nTarget: Pengerjaan soal dengan timer resmi ketat. Jangan buka pembahasan saat tes berlangsung!
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Pengingat Sesi Belajar UTBK: Simulasi / Try-Out
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:utbk-20270404-1500@antigravity
+DTSTAMP:20261109T042102Z
+DTSTART:20270404T080000Z
+DTEND:20270404T093000Z
+SUMMARY:UTBK 2027: Review Error Log & Rest
+DESCRIPTION:Sesi: Evaluasi Strategi Alokasi Waktu per Subtes\nIntensitas: Low/Evaluasi\nTarget: Input seluruh soal salah ke Error Log & konversi ke kartu flashcard Anki.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Pengingat Sesi Belajar UTBK: Review Error Log & Rest
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:utbk-20270405-1930@antigravity
+DTSTAMP:20261109T042102Z
+DTSTART:20270405T123000Z
+DTEND:20270405T140000Z
+SUMMARY:UTBK 2027: PK (Pengetahuan Kuantitatif)
+DESCRIPTION:Topik Minggu Ini: Perbaikan 3 Topik Terlemah PK Berdasarkan TO 1-5\nIntensitas: High Focus\nTarget: Bedah konsep & manipulasi rumus.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Pengingat Sesi Belajar UTBK: PK (Pengetahuan Kuantitatif)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:utbk-20270406-1930@antigravity
+DTSTAMP:20261109T042102Z
+DTSTART:20270406T123000Z
+DTEND:20270406T140000Z
+SUMMARY:UTBK 2027: PU (Penalaran Umum)
+DESCRIPTION:Topik Minggu Ini: Perbaikan Logika Deduktif & Analitis Terlemah\nIntensitas: Medium Focus\nTarget: Drill logika deduktif/induktif & kecepatan.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Pengingat Sesi Belajar UTBK: PU (Penalaran Umum)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:utbk-20270407-1930@antigravity
+DTSTAMP:20261109T042102Z
+DTSTART:20270407T123000Z
+DTEND:20270407T140000Z
+SUMMARY:UTBK 2027: PM (Penalaran Matematika)
+DESCRIPTION:Topik Minggu Ini: Perbaikan Pemodelan Matematika Terlemah\nIntensitas: High Focus\nTarget: Abstraksi soal cerita & pemodelan persamaan.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Pengingat Sesi Belajar UTBK: PM (Penalaran Matematika)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:utbk-20270408-1930@antigravity
+DTSTAMP:20261109T042102Z
+DTSTART:20270408T123000Z
+DTEND:20270408T140000Z
+SUMMARY:UTBK 2027: PK & PM (Cross-Drill)
+DESCRIPTION:Topik Minggu Ini: Latihan Strategi Skipping Soal Sulit (Risk Management)\nIntensitas: High Focus\nTarget: Integrasi soal cerita & kecepatan eksekusi.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Pengingat Sesi Belajar UTBK: PK & PM (Cross-Drill)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:utbk-20270409-2000@antigravity
+DTSTAMP:20261109T042102Z
+DTSTART:20270409T130000Z
+DTEND:20270409T143000Z
+SUMMARY:UTBK 2027: Literasi (LBIng & LBInd) / PBM
+DESCRIPTION:Topik Minggu Ini: Review Ringan Literasi Bahasa\nIntensitas: Light-Medium\nTarget: Speed reading, main idea, & ketelitian kalimat.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Pengingat Sesi Belajar UTBK: Literasi (LBIng & LBInd) / PBM
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:utbk-20270410-0900@antigravity
+DTSTAMP:20261109T042102Z
+DTSTART:20270410T020000Z
+DTEND:20270410T043000Z
+SUMMARY:UTBK 2027: Simulasi / Try-Out
+DESCRIPTION:Sesi: Simulasi TO 7 (Full Subtes Simulasi Terakhir)\nIntensitas: Maximum Focus\nTarget: Pengerjaan soal dengan timer resmi ketat. Jangan buka pembahasan saat tes berlangsung!
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Pengingat Sesi Belajar UTBK: Simulasi / Try-Out
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:utbk-20270411-1500@antigravity
+DTSTAMP:20261109T042102Z
+DTSTART:20270411T080000Z
+DTEND:20270411T093000Z
+SUMMARY:UTBK 2027: Review Error Log & Rest
+DESCRIPTION:Sesi: Review Final Error Log & Penguncian Pola Pikir\nIntensitas: Low/Evaluasi\nTarget: Input seluruh soal salah ke Error Log & konversi ke kartu flashcard Anki.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Pengingat Sesi Belajar UTBK: Review Error Log & Rest
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:utbk-20270412-1930@antigravity
+DTSTAMP:20261109T042102Z
+DTSTART:20270412T123000Z
+DTEND:20270412T140000Z
+SUMMARY:UTBK 2027: PK (Pengetahuan Kuantitatif)
+DESCRIPTION:Topik Minggu Ini: Drill Kecepatan Soal Menengah & Mudah (Zero Mistake)\nIntensitas: High Focus\nTarget: Bedah konsep & manipulasi rumus.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Pengingat Sesi Belajar UTBK: PK (Pengetahuan Kuantitatif)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:utbk-20270413-1930@antigravity
+DTSTAMP:20261109T042102Z
+DTSTART:20270413T123000Z
+DTEND:20270413T140000Z
+SUMMARY:UTBK 2027: PU (Penalaran Umum)
+DESCRIPTION:Topik Minggu Ini: Pemantapan Pola Penalaran Umum Standar UTBK\nIntensitas: Medium Focus\nTarget: Drill logika deduktif/induktif & kecepatan.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Pengingat Sesi Belajar UTBK: PU (Penalaran Umum)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:utbk-20270414-1930@antigravity
+DTSTAMP:20261109T042102Z
+DTSTART:20270414T123000Z
+DTEND:20270414T140000Z
+SUMMARY:UTBK 2027: PM (Penalaran Matematika)
+DESCRIPTION:Topik Minggu Ini: Drill Pemodelan Soal Mudah-Menengah\nIntensitas: High Focus\nTarget: Abstraksi soal cerita & pemodelan persamaan.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Pengingat Sesi Belajar UTBK: PM (Penalaran Matematika)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:utbk-20270415-1930@antigravity
+DTSTAMP:20261109T042102Z
+DTSTART:20270415T123000Z
+DTEND:20270415T140000Z
+SUMMARY:UTBK 2027: PK & PM (Cross-Drill)
+DESCRIPTION:Topik Minggu Ini: Mental Refresh & Review Catatan Ringkas (No Heavy Drill)\nIntensitas: High Focus\nTarget: Integrasi soal cerita & kecepatan eksekusi.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Pengingat Sesi Belajar UTBK: PK & PM (Cross-Drill)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:utbk-20270416-2000@antigravity
+DTSTAMP:20261109T042102Z
+DTSTART:20270416T130000Z
+DTEND:20270416T143000Z
+SUMMARY:UTBK 2027: Literasi (LBIng & LBInd) / PBM
+DESCRIPTION:Topik Minggu Ini: Bacaan Santai Bahasa Inggris & Indonesia\nIntensitas: Light-Medium\nTarget: Speed reading, main idea, & ketelitian kalimat.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Pengingat Sesi Belajar UTBK: Literasi (LBIng & LBInd) / PBM
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:utbk-20270417-0900@antigravity
+DTSTAMP:20261109T042102Z
+DTSTART:20270417T020000Z
+DTEND:20270417T043000Z
+SUMMARY:UTBK 2027: Simulasi / Try-Out
+DESCRIPTION:Sesi: Free Day / Rest - Jaga Kesehatan & Mood\nIntensitas: Maximum Focus\nTarget: Pengerjaan soal dengan timer resmi ketat. Jangan buka pembahasan saat tes berlangsung!
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Pengingat Sesi Belajar UTBK: Simulasi / Try-Out
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:utbk-20270418-1500@antigravity
+DTSTAMP:20261109T042102Z
+DTSTART:20270418T080000Z
+DTEND:20270418T093000Z
+SUMMARY:UTBK 2027: Review Error Log & Rest
+DESCRIPTION:Sesi: Pengecekan Berkas Fisik & Kartu Ujian SNBT\nIntensitas: Low/Evaluasi\nTarget: Input seluruh soal salah ke Error Log & konversi ke kartu flashcard Anki.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Pengingat Sesi Belajar UTBK: Review Error Log & Rest
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:utbk-20270419-1930@antigravity
+DTSTAMP:20261109T042102Z
+DTSTART:20270419T123000Z
+DTEND:20270419T140000Z
+SUMMARY:UTBK 2027: PK (Pengetahuan Kuantitatif)
+DESCRIPTION:Topik Minggu Ini: Light Review Formula Sheet & Sifat Bilangan\nIntensitas: High Focus\nTarget: Bedah konsep & manipulasi rumus.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Pengingat Sesi Belajar UTBK: PK (Pengetahuan Kuantitatif)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:utbk-20270420-1930@antigravity
+DTSTAMP:20261109T042102Z
+DTSTART:20270420T123000Z
+DTEND:20270420T140000Z
+SUMMARY:UTBK 2027: PU (Penalaran Umum)
+DESCRIPTION:Topik Minggu Ini: Light Review Aturan Logika & Silogisme\nIntensitas: Medium Focus\nTarget: Drill logika deduktif/induktif & kecepatan.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Pengingat Sesi Belajar UTBK: PU (Penalaran Umum)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:utbk-20270421-1930@antigravity
+DTSTAMP:20261109T042102Z
+DTSTART:20270421T123000Z
+DTEND:20270421T140000Z
+SUMMARY:UTBK 2027: PM (Penalaran Matematika)
+DESCRIPTION:Topik Minggu Ini: Light Review Rumus-Rumus Dasar Statistika & Rasio\nIntensitas: High Focus\nTarget: Abstraksi soal cerita & pemodelan persamaan.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Pengingat Sesi Belajar UTBK: PM (Penalaran Matematika)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:utbk-20270422-1930@antigravity
+DTSTAMP:20261109T042102Z
+DTSTART:20270422T123000Z
+DTEND:20270422T140000Z
+SUMMARY:UTBK 2027: PK & PM (Cross-Drill)
+DESCRIPTION:Topik Minggu Ini: PEAK PERFORMANCE: Ujian UTBK 2027\nIntensitas: High Focus\nTarget: Integrasi soal cerita & kecepatan eksekusi.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Pengingat Sesi Belajar UTBK: PK & PM (Cross-Drill)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:utbk-20270423-2000@antigravity
+DTSTAMP:20261109T042102Z
+DTSTART:20270423T130000Z
+DTEND:20270423T143000Z
+SUMMARY:UTBK 2027: Literasi (LBIng & LBInd) / PBM
+DESCRIPTION:Topik Minggu Ini: PEAK PERFORMANCE: Ujian UTBK 2027\nIntensitas: Light-Medium\nTarget: Speed reading, main idea, & ketelitian kalimat.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Pengingat Sesi Belajar UTBK: Literasi (LBIng & LBInd) / PBM
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:utbk-20270424-0900@antigravity
+DTSTAMP:20261109T042102Z
+DTSTART:20270424T020000Z
+DTEND:20270424T043000Z
+SUMMARY:UTBK 2027: Simulasi / Try-Out
+DESCRIPTION:Sesi: HARI H PELAKSANAAN UTBK 2027 (21 - 30 APRIL 2027)\nIntensitas: Maximum Focus\nTarget: Pengerjaan soal dengan timer resmi ketat. Jangan buka pembahasan saat tes berlangsung!
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Pengingat Sesi Belajar UTBK: Simulasi / Try-Out
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:utbk-20270425-1500@antigravity
+DTSTAMP:20261109T042102Z
+DTSTART:20270425T080000Z
+DTEND:20270425T093000Z
+SUMMARY:UTBK 2027: Review Error Log & Rest
+DESCRIPTION:Sesi: Target Kelulusan S1/D4 Informatika (ITS / UB / POLINEMA)\nIntensitas: Low/Evaluasi\nTarget: Input seluruh soal salah ke Error Log & konversi ke kartu flashcard Anki.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Pengingat Sesi Belajar UTBK: Review Error Log & Rest
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:utbk-20270426-1930@antigravity
+DTSTAMP:20261109T042102Z
+DTSTART:20270426T123000Z
+DTEND:20270426T140000Z
+SUMMARY:UTBK 2027: PK (Pengetahuan Kuantitatif)
+DESCRIPTION:Topik Minggu Ini: PEAK PERFORMANCE: Ujian UTBK 2027\nIntensitas: High Focus\nTarget: Bedah konsep & manipulasi rumus.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Pengingat Sesi Belajar UTBK: PK (Pengetahuan Kuantitatif)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:utbk-20270427-1930@antigravity
+DTSTAMP:20261109T042102Z
+DTSTART:20270427T123000Z
+DTEND:20270427T140000Z
+SUMMARY:UTBK 2027: PU (Penalaran Umum)
+DESCRIPTION:Topik Minggu Ini: PEAK PERFORMANCE: Ujian UTBK 2027\nIntensitas: Medium Focus\nTarget: Drill logika deduktif/induktif & kecepatan.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Pengingat Sesi Belajar UTBK: PU (Penalaran Umum)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:utbk-20270428-1930@antigravity
+DTSTAMP:20261109T042102Z
+DTSTART:20270428T123000Z
+DTEND:20270428T140000Z
+SUMMARY:UTBK 2027: PM (Penalaran Matematika)
+DESCRIPTION:Topik Minggu Ini: PEAK PERFORMANCE: Ujian UTBK 2027\nIntensitas: High Focus\nTarget: Abstraksi soal cerita & pemodelan persamaan.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Pengingat Sesi Belajar UTBK: PM (Penalaran Matematika)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:utbk-20270429-1930@antigravity
+DTSTAMP:20261109T042102Z
+DTSTART:20270429T123000Z
+DTEND:20270429T140000Z
+SUMMARY:UTBK 2027: PK & PM (Cross-Drill)
+DESCRIPTION:Topik Minggu Ini: PEAK PERFORMANCE: Ujian UTBK 2027\nIntensitas: High Focus\nTarget: Integrasi soal cerita & kecepatan eksekusi.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Pengingat Sesi Belajar UTBK: PK & PM (Cross-Drill)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:utbk-20270430-2000@antigravity
+DTSTAMP:20261109T042102Z
+DTSTART:20270430T130000Z
+DTEND:20270430T143000Z
+SUMMARY:UTBK 2027: Literasi (LBIng & LBInd) / PBM
+DESCRIPTION:Topik Minggu Ini: PEAK PERFORMANCE: Ujian UTBK 2027\nIntensitas: Light-Medium\nTarget: Speed reading, main idea, & ketelitian kalimat.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Pengingat Sesi Belajar UTBK: Literasi (LBIng & LBInd) / PBM
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ms-20270112-e4c0d862@antigravity
+DTSTAMP:20261109T042102Z
+DTSTART;VALUE=DATE:20270112
+DTEND;VALUE=DATE:20270408
+SUMMARY:📌 SNPMB: Registrasi Akun SNPMB (Siswa & Sekolah)
+DESCRIPTION:Pastikan data NISN, NPSN, dan pasfoto valid di portal SNPMB.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:Milestone Penting SNBT: 📌 SNPMB: Registrasi Akun SNPMB (Siswa & Sekolah)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ms-20270325-5181a459@antigravity
+DTSTAMP:20261109T042102Z
+DTSTART;VALUE=DATE:20270325
+DTEND;VALUE=DATE:20270409
+SUMMARY:📌 SNBT: Pendaftaran & Pembayaran Biaya UTBK
+DESCRIPTION:Pendaftaran UTBK SNBT 2027 & pemilihan prodi target (ITS / UB / POLINEMA). Jangan menunda sampai hari terakhir!
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:Milestone Penting SNBT: 📌 SNBT: Pendaftaran & Pembayaran Biaya UTBK
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ms-20270411-37e659bb@antigravity
+DTSTAMP:20261109T042102Z
+DTSTART;VALUE=DATE:20270411
+DTEND;VALUE=DATE:20270416
+SUMMARY:📌 SNBT: Unduh & Cetak Kartu Peserta UTBK
+DESCRIPTION:Cetak kartu ujian peserta UTBK, periksa sesi ujian (pagi/siang), cek lokasi pusat UTBK dan ruangan ujian.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:Milestone Penting SNBT: 📌 SNBT: Unduh & Cetak Kartu Peserta UTBK
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ms-20270421-ec9d93e0@antigravity
+DTSTAMP:20261109T042102Z
+DTSTART;VALUE=DATE:20270421
+DTEND;VALUE=DATE:20270501
+SUMMARY:🎯 HARI H: Pelaksanaan UTBK 2027 (Peak Performance)
+DESCRIPTION:Pelaksanaan tes UTBK SNBT 2027 resmi. Bawa kartu peserta, kartu identitas, dan perlengkapan ujian lengkap. Kerjakan soal dengan tenang dan terstruktur!
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:Milestone Penting SNBT: 🎯 HARI H: Pelaksanaan UTBK 2027 (Peak Performance)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ms-20270525-913ef96e@antigravity
+DTSTAMP:20261109T042102Z
+DTSTART;VALUE=DATE:20270525
+DTEND;VALUE=DATE:20270526
+SUMMARY:🏆 SNBT: Pengumuman Hasil Kelulusan SNBT 2027
+DESCRIPTION:Pengumuman hasil seleksi SNBT 2027. Cek di portal resmi SNPMB atau mirror PTN target.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:Milestone Penting SNBT: 🏆 SNBT: Pengumuman Hasil Kelulusan SNBT 2027
+END:VALARM
+END:VEVENT
+END:VCALENDAR
