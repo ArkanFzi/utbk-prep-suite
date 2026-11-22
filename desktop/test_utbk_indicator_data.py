@@ -1,7 +1,12 @@
 import unittest
 import os
+import sys
 import json
 from datetime import date
+
+CURRENT_DIR = os.path.dirname(os.path.abspath(__file__))
+if CURRENT_DIR not in sys.path:
+    sys.path.insert(0, CURRENT_DIR)
 
 class TestUTBKIndicatorData(unittest.TestCase):
     def test_countdown(self):
