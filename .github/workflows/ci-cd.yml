@@ -15,8 +15,8 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
-  test:
-    name: 🧪 Lint & Unit Test
+  test-and-build:
+    name: 🧪 Test & Build Artifacts
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Code
@@ -45,51 +45,29 @@ jobs:
           npm ci
           npm run build
 
-      - name: Archive Production Artifact
-        uses: actions/upload-artifact@v4
-        with:
-          name: web-dist
-          path: web/dist/
-
-  deploy-pages:
-    name: 📱 Deploy Mobile PWA (GitHub Pages)
-    needs: test
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout Code
-        uses: actions/checkout@v4
-
-      - name: Setup Node.js
-        uses: actions/setup-node@v4
-        with:
-          node-version: 20
-          cache: 'npm'
-          cache-dependency-path: web/package-lock.json
-
-      - name: Build Web Application
-        run: |
-          cd web
-          npm ci
-          npm run build
-
       - name: Setup Pages
         uses: actions/configure-pages@v4
 
       - name: Upload Pages Artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: 'web/dist'
+          path: web/dist/
 
+  deploy-pages:
+    name: 📱 Deploy Mobile PWA (GitHub Pages)
+    needs: test-and-build
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
 
   deploy-gcp:
     name: ☁️ Deploy Production Container (GCP VM)
-    needs: test
+    needs: test-and-build
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Code
