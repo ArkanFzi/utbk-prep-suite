@@ -1,0 +1,12 @@
+services:
+  utbk-web:
+    build:
+      context: ./web
+      dockerfile: Dockerfile
+    image: utbk-prep-suite-web:latest
+    container_name: utbk-web
+    restart: unless-stopped
+    ports:
+      - "${UTBK_PORT:-3050}:80"
+    environment:
+      - NODE_ENV=production

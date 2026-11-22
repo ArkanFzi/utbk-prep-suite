@@ -1,0 +1,105 @@
+name: CI/CD Pipeline (Pages & GCP VM)
+
+on:
+  push:
+    branches: ["main"]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "ci-cd-deployment"
+  cancel-in-progress: false
+
+jobs:
+  test:
+    name: 🧪 Lint & Unit Test
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Run Desktop Indicator Tests
+        run: |
+          python3 desktop/test_utbk_indicator_data.py
+          python3 desktop/test_utbk_indicator_gui.py
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: 'npm'
+          cache-dependency-path: web/package-lock.json
+
+      - name: Build Web Application
+        run: |
+          cd web
+          npm ci
+          npm run build
+
+      - name: Archive Production Artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: web-dist
+          path: web/dist/
+
+  deploy-pages:
+    name: 📱 Deploy Mobile PWA (GitHub Pages)
+    needs: test
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Setup Pages
+        uses: actions/configure-pages@v4
+
+      - name: Download Build Artifact
+        uses: actions/download-artifact@v4
+        with:
+          name: web-dist
+          path: web/dist/
+
+      - name: Upload Pages Artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: web/dist/
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
+
+  deploy-gcp:
+    name: ☁️ Deploy Production Container (GCP VM)
+    needs: test
+    runs-on: ubuntu-latest
+    if: "${{ vars.GCP_HOST != '' || secrets.GCP_HOST != '' }}"
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      - name: Execute Remote SSH Deployment
+        uses: appleboy/ssh-action@v1.2.0
+        with:
+          host: ${{ secrets.GCP_HOST }}
+          username: ${{ secrets.GCP_USERNAME }}
+          key: ${{ secrets.GCP_SSH_KEY }}
+          script: |
+            set -e
+            APP_DIR="/opt/utbk-prep-suite"
+            if [ ! -d "$APP_DIR" ]; then
+              sudo git clone https://github.com/ArkanFzi/utbk-prep-suite.git "$APP_DIR"
+              sudo chown -R $USER:$USER "$APP_DIR"
+            fi
+            cd "$APP_DIR"
+            git pull origin main
+            docker compose -f docker-compose.prod.yml up -d --build
+            docker ps | grep utbk-web || true
