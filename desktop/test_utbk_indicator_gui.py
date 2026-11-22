@@ -1,10 +1,23 @@
 import unittest
 import os
 import sys
+from unittest.mock import MagicMock
 
 CURRENT_DIR = os.path.dirname(os.path.abspath(__file__))
 if CURRENT_DIR not in sys.path:
     sys.path.insert(0, CURRENT_DIR)
+
+# Mock gi repository in headless CI environments where GTK is not installed
+try:
+    import gi
+except ImportError:
+    gi = MagicMock()
+    sys.modules["gi"] = gi
+    sys.modules["gi.repository"] = MagicMock()
+    sys.modules["gi.repository.Gtk"] = MagicMock()
+    sys.modules["gi.repository.GLib"] = MagicMock()
+    sys.modules["gi.repository.AyatanaAppIndicator3"] = MagicMock()
+    sys.modules["gi.repository.AppIndicator3"] = MagicMock()
 
 class TestUTBKIndicatorGUI(unittest.TestCase):
     def test_indicator_module_imports(self):
